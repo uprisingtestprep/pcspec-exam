@@ -1,0 +1,3502 @@
+[
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロックが適応となる血流関連疾患",
+  "back": "上肢の血行障害（レイノー病など）や突発性難聴。交感神経遮断による血流増加",
+  "id": 1
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "オピオイド過量による呼吸抑制の拮抗薬は",
+  "back": "ナロキソン：作用時間が短く、再鎮静に備えて観察を続ける",
+  "id": 2
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "帯状疱疹の胸部痛に肋間神経ブロックを行う目的は",
+  "back": "急性期の痛みの軽減。帯状疱疹後神経痛への移行予防に役立つ可能性がある。",
+  "id": 3
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "セレコキシブの特徴は？",
+  "back": "COX-2選択的阻害で胃腸障害は少ないが、心血管イベントや腎機能に注意",
+  "id": 4
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "腎機能低下時の薬剤",
+  "front": "腎機能低下患者で比較的使いやすいオピオイドを挙げよ",
+  "back": "フェンタニルは主に肝代謝で活性代謝物が少なく、腎機能低下時でも使いやすい。",
+  "id": 5
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "パルス高周波",
+  "front": "PRFの標準的なパルス幅と頻度は？",
+  "back": "2Hz・20ミリ秒（毎秒2回、1回20ミリ秒の通電）が一般的な設定",
+  "id": 6
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "斜角筋間腕神経叢ブロックで高頻度の合併症は",
+  "back": "同側の横隔神経麻痺。呼吸機能低下例では注意が必要である。",
+  "id": 7
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "エピドラスコピー",
+  "front": "エピドラスコピー中の注入で特に注意する合併症は？",
+  "back": "網膜出血・視力障害。硬膜外腔への急速注入による圧上昇が関与する",
+  "id": 8
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "仙腸関節ブロック",
+  "front": "仙腸関節の神経支配",
+  "back": "L4からS3の後枝などの多髄節支配。そのため関節内注入だけでは不十分なことがある",
+  "id": 9
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドンで心電図モニタリングが必要な重大な副作用は？",
+  "back": "QT延長：torsade de pointesに至ることがあり、低K血症などの補正も重要",
+  "id": 10
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "腎機能低下時の薬剤",
+  "front": "腎機能低下時に代謝物の蓄積に注意が必要なオピオイドは何か",
+  "back": "モルヒネで、活性代謝物M6Gが腎排泄されるため蓄積して眠気や呼吸抑制が生じやすい。",
+  "id": 11
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "NSAIDsとメトトレキサートの併用で起こることは？",
+  "back": "メトトレキサートの腎排泄が低下し血中濃度が上昇、毒性が増強する",
+  "id": 12
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "骨盤痛・仙腸関節・梨状筋",
+  "front": "仙腸関節痛の患者が訴えやすい動作の特徴は？",
+  "back": "硬い椅子での座位困難、仰臥位や寝返りの困難、立ち上がり時の痛みなどを訴える",
+  "id": 13
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "デルマトームと皮枝",
+  "front": "母指の支配髄節は？",
+  "back": "C6。示指・中指はC7、小指はC8が目安",
+  "id": 14
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "神経障害性疼痛",
+  "front": "神経障害性疼痛薬物療法ガイドライン改訂第2版の第一選択薬は？",
+  "back": "Ca2+チャネルα2δリガンド、セロトニン・ノルアドレナリン再取り込み阻害薬、三環系抗うつ薬。",
+  "id": 15
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "硬膜穿刺後頭痛",
+  "front": "硬膜穿刺後頭痛の保存療法が無効な場合の処置",
+  "back": "硬膜外自家血注入（ブラッドパッチ）。穿刺孔を血餅で塞ぐ",
+  "id": 16
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "緊張型頭痛",
+  "front": "緊張型頭痛の痛みの特徴",
+  "back": "両側性で圧迫・締め付け感、軽〜中等度。日常動作で増悪せず悪心はない",
+  "id": 17
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "薬剤の使用過多による頭痛",
+  "front": "薬剤使用過多で月10日以上が基準となる薬",
+  "back": "トリプタン、エルゴタミン、オピオイド、複合鎮痛薬。単純鎮痛薬は月15日以上",
+  "id": 18
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "サドルブロックで用いる局所麻酔薬の比重と体位は",
+  "back": "高比重液を坐位で投与する。仙髄領域に限局した麻酔を得る。",
+  "id": 19
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "群発頭痛",
+  "front": "群発頭痛の急性期治療で有効な処置",
+  "back": "スマトリプタン皮下注射と高流量の純酸素吸入。短時間で効果を期待する",
+  "id": 20
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "デルマトームと皮枝",
+  "front": "臍の高さの皮膚分節は？",
+  "back": "T10。乳頭の高さはT4、鼠径部はL1が目安",
+  "id": 21
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "末梢性感作",
+  "front": "NSAIDsが末梢性感作を抑える機序は？",
+  "back": "COXを阻害してプロスタグランジン産生を減らし、侵害受容器の閾値低下を防ぐ。",
+  "id": 22
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "アセトアミノフェン",
+  "front": "アセトアミノフェン中毒の解毒薬は",
+  "back": "アセチルシステイン：グルタチオン補充作用で早期投与が有効",
+  "id": 23
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "筋筋膜性疼痛・線維筋痛症",
+  "front": "線維筋痛症の疫学的特徴は？",
+  "back": "中年女性に多い。全身の慢性広範痛に疲労、睡眠障害、うつなどを伴う",
+  "id": 24
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄後角と上行路",
+  "front": "下行性疼痛抑制系の主な伝達物質は？",
+  "back": "ノルアドレナリンとセロトニン。内因性オピオイドも関与する",
+  "id": 25
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "術後慢性疼痛",
+  "front": "術後慢性疼痛を減らす目的で周術期に行う工夫は？",
+  "back": "局所麻酔を用いた区域麻酔や多角的鎮痛で術後急性痛を十分に抑える",
+  "id": 26
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPSで交感神経ブロックが果たす役割は？",
+  "back": "疼痛緩和と運動療法を行う足がかりとして用いる。交感神経依存性疼痛の評価にも用いる",
+  "id": 27
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "ICHD-3の構成",
+  "front": "ICHD-3の大きな3部構成",
+  "back": "第1部は一次性頭痛、第2部は二次性頭痛、第3部は有痛性脳神経ニューロパチー・他の顔面痛・その他の頭痛",
+  "id": 28
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "WHO方式と除痛ラダー",
+  "front": "WHO方式の「個別的な量で」とはどういう意味か",
+  "back": "標準量はなく、痛みが消える最小の副作用で済む量を個々に滴定して決める。",
+  "id": 29
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "アナフィラキシー",
+  "front": "アナフィラキシーの第一選択薬と投与経路は？",
+  "back": "アドレナリンの大腿外側への筋肉内注射（成人0.3〜0.5 mg）。効果不十分なら5〜15分ごとに反復する",
+  "id": 30
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "下行性疼痛抑制系",
+  "front": "下行性抑制で後角に作用する主な伝達物質は？",
+  "back": "ノルアドレナリンとセロトニンで、後角の侵害情報伝達を抑制する。",
+  "id": 31
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "フェンタニル・ブプレノルフィン",
+  "front": "フェンタニル貼付剤の貼付部位を温めると何が起こる？",
+  "back": "皮膚温上昇で吸収が増え血中濃度が上昇：電気毛布・入浴・発熱で過量のリスク",
+  "id": 32
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "侵害受容性疼痛",
+  "front": "炎症時に侵害受容器を感作する代表的な化学物質は？",
+  "back": "ブラジキニン、プロスタグランジンE2、ヒスタミン、NGFなどの発痛・痛み増強物質",
+  "id": 33
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "腰椎椎間関節を支配する神経は",
+  "back": "脊髄神経後枝内側枝。1つの関節を上下2本の内側枝が支配する。",
+  "id": 34
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄後角と上行路",
+  "front": "後角でC線維が主に終止する層は？",
+  "back": "Rexed第Ⅱ層（膠様質）。Aδ線維は主に第Ⅰ層と第Ⅴ層",
+  "id": 35
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "肋間神経ブロックの代表的な合併症は",
+  "back": "気胸。さらに血中への吸収が速く局所麻酔薬中毒にも注意する。",
+  "id": 36
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "心理社会的因子・CBT・集学的治療",
+  "front": "不安と抑うつの評価に用いる尺度",
+  "back": "HADS(病院不安抑うつ尺度)が用いられ、不安と抑うつを分けて評価する。",
+  "id": 37
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "有害事象の分類",
+  "front": "ブロック後の硬膜穿刺後頭痛の特徴的な所見は？",
+  "back": "座位や立位で増悪し、臥位で軽減する頭痛。髄液漏出による頭蓋内低圧が原因",
+  "id": 38
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "椎間板ヘルニアの自然経過で知られる特徴は？",
+  "back": "髄核脱出型は吸収されて縮小することがあり、保存的治療で改善する症例が多い",
+  "id": 39
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "神経障害性疼痛",
+  "front": "神経障害性疼痛の定義（IASP）は？",
+  "back": "体性感覚神経系の病変や疾患によって引き起こされる疼痛である。",
+  "id": 40
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "後頭神経ブロック",
+  "front": "大後頭神経ブロックの合併症",
+  "back": "局所の脱毛や血管内誤注入。頭蓋骨欠損部では頭蓋内への浸潤に注意する",
+  "id": 41
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "大内臓神経の起始髄節は",
+  "back": "主にT5からT9(10)の交感神経幹から起こる。小内臓神経はT10・11。",
+  "id": 42
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "三環系抗うつ薬で重篤な心毒性となる変化は",
+  "back": "心伝導障害（QRS延長・不整脈）：過量時は特に危険",
+  "id": 43
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "タペンタドールの代謝の特徴は",
+  "back": "主にグルクロン酸抱合で、CYP代謝への依存が小さく薬物相互作用が少ない",
+  "id": 44
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "神経障害性疼痛",
+  "front": "神経損傷後の異所性発火に関与するイオンチャネルは？",
+  "back": "電位依存性Naチャネルの発現増加が関与し、自発痛や電撃痛の原因となる。",
+  "id": 45
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "仙腸関節ブロック",
+  "front": "仙腸関節の痛みが生じやすい部位",
+  "back": "上後腸骨棘周辺の殿部・腰部。Fortin fingerテストで指一本で示す",
+  "id": 46
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "インフォームドコンセント",
+  "front": "同意能力を欠く患者への処置で同意を得る相手は？",
+  "back": "家族など患者の意思を推定できる者。緊急時は患者の最善の利益に基づき対応し記録する",
+  "id": 47
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "イオンチャネルと受容体",
+  "front": "ケタミンの主な鎮痛機序は？",
+  "back": "NMDA受容体の非競合的拮抗作用。中枢性感作を抑える",
+  "id": 48
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "神経障害性疼痛",
+  "front": "プレガバリンとガバペンチンの作用標的は？",
+  "back": "電位依存性Caチャネルのα2δサブユニットに結合し、興奮性伝達物質の放出を抑える。",
+  "id": 49
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "腰椎内側枝ブロックの透視下の標的部位は",
+  "back": "上関節突起と横突起の接合部。内側枝がこの付近を走行する。",
+  "id": 50
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "末梢性感作",
+  "front": "一次痛と二次痛を伝える線維の違いは？",
+  "back": "一次痛はAδ線維（有髄、速い鋭い痛み）、二次痛はC線維（無髄、遅い鈍い痛み）。",
+  "id": 51
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "超音波ガイド下に血管を判別するために用いる方法",
+  "back": "カラードプラ。血流の有無で動脈と静脈を識別する",
+  "id": 52
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰椎術後疼痛症候群",
+  "front": "腰椎術後疼痛症候群(FBSS)の定義",
+  "back": "腰椎手術後も腰痛や下肢痛が残存または再発し、治療に難渋する状態を指す。",
+  "id": 53
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "第1仙骨神経根障害で低下する腱反射",
+  "back": "アキレス腱反射。S1は足底屈の筋力低下も伴う",
+  "id": 54
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄神経と神経叢",
+  "front": "横隔神経の起始となる神経根は？",
+  "back": "主にC4（C3〜C5）で、腕神経叢ブロックで麻痺しやすい。",
+  "id": 55
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "伏在神経が支配する領域は",
+  "back": "下腿内側から足内側縁。大腿神経の最長の知覚枝である。",
+  "id": 56
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "椎体形成術",
+  "front": "椎体形成術で骨セメント漏出が及ぼす代表的な合併症は？",
+  "back": "脊柱管内への漏出による神経障害や、静脈系への漏出による肺塞栓",
+  "id": 57
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "局所麻酔薬中毒の初期症状は",
+  "back": "口周囲のしびれ、耳鳴、多弁。進行すると痙攣や心停止に至る。",
+  "id": 58
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "局所麻酔薬中毒による痙攣の対応薬は？",
+  "back": "ベンゾジアゼピン系薬：酸素投与・気道確保と併せて行う",
+  "id": 59
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "血管性疼痛(Fontaine・狭心症)",
+  "front": "足関節上腕血圧比(ABI)で閉塞性動脈疾患を疑う値",
+  "back": "ABIが0.9以下で末梢動脈疾患を疑い、下肢動脈の狭窄や閉塞を示唆する。",
+  "id": 60
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPSの診断基準で評価する4つのカテゴリーは？",
+  "back": "感覚、血管運動、発汗/浮腫、運動/栄養の各カテゴリー",
+  "id": 61
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "古典的三叉神経痛の主な原因は？",
+  "back": "三叉神経根の血管による圧迫（神経血管圧迫）。上小脳動脈が多い",
+  "id": 62
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "硬膜外腔・くも膜下腔と椎骨レベル",
+  "front": "成人の脊髄円錐の終わる椎体レベルは？",
+  "back": "通常L1下縁〜L2上縁で、これより尾側は馬尾となる。",
+  "id": 63
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "無菌操作",
+  "front": "硬膜外ブロック時の皮膚消毒で用いる薬剤は？",
+  "back": "クロルヘキシジンアルコールまたはポビドンヨードを用い、乾燥するまで待ってから穿刺する",
+  "id": 64
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "デュロキセチンの作用機序は",
+  "back": "セロトニン・ノルアドレナリン再取り込み阻害（SNRI）",
+  "id": 65
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "後頭神経痛・頸原性頭痛",
+  "front": "小後頭神経の由来",
+  "back": "頸神経叢（C2・C3）の枝。耳介後方から側頭部後方に分布する",
+  "id": 66
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "エステル型とアミド型の局所麻酔薬の代謝の違いは？",
+  "back": "エステル型は血漿コリンエステラーゼ、アミド型は主に肝臓で代謝",
+  "id": 67
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "糖尿病性自律神経障害でみられる症状",
+  "back": "起立性低血圧、無汗や発汗異常、胃不全麻痺、無自覚性低血糖などが生じる。",
+  "id": 68
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "三叉神経・自律神経性頭痛",
+  "front": "三叉神経・自律神経性頭痛に共通する随伴症状",
+  "back": "頭痛と同側の流涙、結膜充血、鼻閉・鼻漏、縮瞳・眼瞼下垂などの副交感神経・交感神経症状",
+  "id": 69
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "経口モルヒネ60mg/日に相当するフェンタニル貼付剤は",
+  "back": "フェンタニル0.6mg/日（4.2mg製剤）が目安。換算表により経口モルヒネ60〜90mg/日に相当とされる",
+  "id": 70
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "緊張型頭痛",
+  "front": "慢性緊張型頭痛の予防に用いられる代表薬",
+  "back": "アミトリプチリンなどの三環系抗うつ薬。就寝前の少量から開始する",
+  "id": 71
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "不対神経節ブロックが有効な痛みは",
+  "back": "会陰部や肛門直腸の交感神経が関与する痛み。仙尾関節付近で行う。",
+  "id": 72
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "後根神経節刺激",
+  "front": "従来のSCSと比べたDRGSの利点は？",
+  "back": "限局した部位を狙え、体位変化による刺激強度の変動が少ない",
+  "id": 73
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛予防とCGRP関連薬",
+  "front": "バルプロ酸を片頭痛予防に使う際の注意",
+  "back": "催奇形性があり妊娠可能な女性には原則避ける。肝障害・高アンモニア血症にも注意",
+  "id": 74
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロック成功時のHorner徴候の3つ",
+  "back": "縮瞳・眼瞼下垂・眼球陥凹。同側の顔面発汗低下や結膜充血も伴う",
+  "id": 75
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "ガバペンチノイドを急に中止した場合の問題は？",
+  "back": "離脱症状（不眠・悪心・不安など）：漸減して中止する",
+  "id": 76
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "オトガイ孔から出る神経は",
+  "back": "下顎神経(V3)の枝のオトガイ神経。下口唇とオトガイ部の知覚を支配する。",
+  "id": 77
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "髄腔内への誤注入で禁忌となる造影剤は",
+  "back": "イオン性造影剤。痙攣など重篤な副作用の危険があり非イオン性を用いる。",
+  "id": 78
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "傍脊椎ブロックで遮断される神経は",
+  "back": "椎間孔を出た直後の脊髄神経。一側性の分節遮断が得られる。",
+  "id": 79
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "インシデント・アクシデント",
+  "front": "処置前のタイムアウトで確認する内容は？",
+  "back": "患者名、術式、部位と左右、同意、抗凝固薬やアレルギーを関係者全員で声に出して確認する",
+  "id": 80
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄神経と神経叢",
+  "front": "坐骨神経が分岐する2つの神経は？",
+  "back": "総腓骨神経と脛骨神経で、膝窩上方で分岐する。",
+  "id": 81
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "エピドラスコピー",
+  "front": "エピドラスコピーの代表的な適応疾患は？",
+  "back": "腰椎手術後疼痛症候群や腰部脊柱管狭窄症など、硬膜外癒着が疑われる病態",
+  "id": 82
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "局所麻酔薬中毒",
+  "front": "局所麻酔薬中毒に伴う痙攣の第一選択薬は？",
+  "back": "ベンゾジアゼピン系薬。プロポフォールは循環抑制が強く大量には用いない",
+  "id": 83
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "モルヒネの経口と注射の力価の関係は？",
+  "back": "注射（静脈内・皮下）は経口の約1/2〜1/3量で同等の鎮痛：経口は初回通過効果を受ける",
+  "id": 84
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "高周波熱凝固",
+  "front": "RFの前に行う運動神経刺激テストの目的は？",
+  "back": "運動神経が近傍にないことの確認。誤って運動枝を凝固する合併症を避ける",
+  "id": 85
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "末梢性感作",
+  "front": "侵害受容器でカプサイシンに反応する受容体は？",
+  "back": "TRPV1。熱（約43℃以上）やプロトンにも反応する侵害受容チャネルである。",
+  "id": 86
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "不対神経節ブロックの適応",
+  "back": "会陰部・肛門部の交感神経関連痛。直腸がん術後の会陰部痛などに用いる",
+  "id": 87
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "心理社会的因子・CBT・集学的治療",
+  "front": "慢性疼痛の集学的治療の構成",
+  "back": "医師、心理士、理学療法士、看護師などの多職種が協働し、薬物・運動・心理的介入を組み合わせる。",
+  "id": 88
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "頸部神経根ブロックで起こりうる重篤な合併症",
+  "back": "椎骨動脈内誤注入と脊髄損傷。造影剤で血管内注入を確認する理由",
+  "id": 89
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "デルマトームと皮枝",
+  "front": "肛門周囲の皮膚を支配する髄節は？",
+  "back": "S2〜S5（サドル領域）。馬尾症候群で感覚低下を診る部位",
+  "id": 90
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "グリア細胞",
+  "front": "アストロサイトが神経障害性疼痛で担う役割は？",
+  "back": "活性化して炎症性サイトカインを放出し、疼痛の維持・慢性化に関わる。",
+  "id": 91
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "ICHD-3の構成",
+  "front": "ICHD-3の一次性頭痛に含まれる4群",
+  "back": "片頭痛、緊張型頭痛、三叉神経・自律神経性頭痛、その他の一次性頭痛",
+  "id": 92
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "モルヒネ脊髄くも膜下投与で特に注意すべき副作用は？",
+  "back": "投与後に遅れて現れる呼吸抑制：親水性が高く髄液中を頭側へ移動するため",
+  "id": 93
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "フェンタニル貼付剤の主な代謝酵素は",
+  "back": "CYP3A4：阻害薬併用で血中濃度が上昇する",
+  "id": 94
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "三叉神経・自律神経性頭痛",
+  "front": "短時間持続性片側神経痛様頭痛発作の持続時間",
+  "back": "1〜600秒の非常に短い発作が1日に多数回みられる",
+  "id": 95
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "医療安全委員会",
+  "front": "医療法で定められた病院の医療安全体制は？",
+  "back": "医療安全管理指針の整備、委員会の開催、職員研修、事例報告と改善策の実施",
+  "id": 96
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "デルマトームと皮枝",
+  "front": "膝蓋骨周囲の主な支配髄節は？",
+  "back": "L3・L4。足背の第1趾側はL5、足外側と小趾はS1",
+  "id": 97
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "眼窩下孔から出る神経は",
+  "back": "上顎神経(V2)の枝である眼窩下神経。頬部や上口唇の知覚を支配する。",
+  "id": 98
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "侵害受容性疼痛",
+  "front": "C線維が伝える痛みの特徴は？",
+  "back": "無髄で遅く伝導し、局在の不明瞭な二次痛（鈍い持続痛）を担う",
+  "id": 99
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛急性期治療",
+  "front": "エルゴタミン製剤とトリプタンの併用",
+  "back": "血管収縮作用が増強するため併用は禁忌。投与間隔をあける必要がある",
+  "id": 100
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰椎術後疼痛症候群",
+  "front": "隣接椎間障害とは",
+  "back": "固定術後に、固定椎間に隣接する椎間で変性や不安定性が進み症状を生じる病態。",
+  "id": 101
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "がんサバイバーの痛み",
+  "front": "がんサバイバーとは誰を指すか",
+  "back": "治癒した人に限らず、がんの診断を受け治療中あるいは治療後の人々を広く指す。",
+  "id": 102
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "WHO方式と除痛ラダー",
+  "front": "WHO方式で鎮痛薬を投与する時間の原則は何か",
+  "back": "時刻を決めて規則正しく投与する(by the clock)。痛みが出てからの頓用だけにしない。",
+  "id": 103
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "星状神経節ブロックで起こるHorner徴候は",
+  "back": "縮瞳・眼瞼下垂・眼球陥凹(と顔面の発汗低下)。同側の頸部交感神経遮断による。",
+  "id": 104
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "インシデント・アクシデント",
+  "front": "インシデントとアクシデントの違いは？",
+  "back": "インシデントは患者に実害が及ばなかった事例、アクシデントは患者に傷害が生じた事例",
+  "id": 105
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "タペンタドールの作用機序は",
+  "back": "μ受容体作動とノルアドレナリン再取り込み阻害の二重作用",
+  "id": 106
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ステロイドと抗凝固薬管理",
+  "front": "粒子状ステロイドを用いた頸部神経根ブロックの合併症は",
+  "back": "脳幹・脊髄梗塞の報告があり、頸部では非粒子性製剤を選ぶことが望ましい",
+  "id": 107
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "オピオイドローテーションの目的は",
+  "back": "副作用軽減や鎮痛効果改善のため、別のオピオイドへ切り替えること",
+  "id": 108
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛予防とCGRP関連薬",
+  "front": "CGRPが片頭痛発作で担う役割",
+  "back": "三叉神経終末から放出され血管拡張と神経原性炎症、痛覚伝達に関与する神経ペプチド",
+  "id": 109
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "局所麻酔薬中毒",
+  "front": "局所麻酔薬中毒の初期症状は？",
+  "back": "口周囲のしびれ、金属味、耳鳴り、多弁などの中枢神経症状。進行すると痙攣、不整脈を呈する",
+  "id": 110
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛の診断",
+  "front": "片頭痛の前兆の持続時間と性質",
+  "back": "個々の前兆は5〜60分持続し完全可逆性。視覚症状が最も多い",
+  "id": 111
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "血管性疼痛(Fontaine・狭心症)",
+  "front": "バージャー病(閉塞性血栓血管炎)の特徴",
+  "back": "若年から中年の喫煙男性に多い四肢末梢の血管炎で、禁煙が治療の基本である。",
+  "id": 112
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "血管性疼痛(Fontaine・狭心症)",
+  "front": "Fontaine分類のII度の症状",
+  "back": "間欠跛行で、一定距離の歩行で下肢痛が生じ、休むと軽快する。",
+  "id": 113
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ステロイドと抗凝固薬管理",
+  "front": "ステロイド添加で神経ブロックの効果が増す程度は",
+  "back": "プラセボと比べ有意な効果は限定的：合併症の危険も考えて適応を選ぶ",
+  "id": 114
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "経皮的椎間板治療・コンドリアーゼ",
+  "front": "コンドリアーゼの作用機序は？",
+  "back": "椎間板髄核のグリコサミノグリカンを分解し、髄核の保水能を下げて内圧を低下させる",
+  "id": 115
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "局所麻酔薬中毒に対する薬物治療は",
+  "back": "脂肪乳剤(20%)の静注。痙攣にはベンゾジアゼピン系薬を用いる。",
+  "id": 116
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ステロイドと抗凝固薬管理",
+  "front": "ワルファリンの硬膜外ブロック前の休薬期間の目安は",
+  "back": "約5日前後の休薬に加え、PT-INRの正常化確認が必要",
+  "id": 117
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "プレガバリンの日本での適応疾患は？",
+  "back": "神経障害性疼痛と線維筋痛症に伴う疼痛：いずれも保険適応が認められている",
+  "id": 118
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "オピオイド選択とローテーション",
+  "front": "フェンタニル貼付剤は定常状態に達するまでに時間がかかる。注意点は何か",
+  "back": "貼付後の血中濃度上昇は緩徐のため、貼り始めや増量直後は速効性製剤などで疼痛を補う。",
+  "id": 119
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "腰部神経根ブロックの標的となる位置",
+  "back": "椎間孔外口付近の神経根。斜位透視で椎弓根下縁を目安に針を進める",
+  "id": 120
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "下肢伸展挙上(SLR)テストが陽性となる病態",
+  "back": "坐骨神経(L5・S1神経根)の伸展刺激で下肢痛が誘発され、L4/5・L5/S1椎間板ヘルニアで陽性となる。",
+  "id": 121
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "下行性疼痛抑制系",
+  "front": "デュロキセチンの鎮痛機序は？",
+  "back": "セロトニンとノルアドレナリンの再取り込みを阻害し、下行性疼痛抑制系を賦活する。",
+  "id": 122
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "後頭神経ブロック",
+  "front": "後頭神経痛の特徴的な症状",
+  "back": "後頭部の電撃痛と神経走行上の圧痛。Tinel様徴候がみられる",
+  "id": 123
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "ESPで針先を当てる骨性指標",
+  "back": "横突起先端。胸椎レベルでは棘突起から約3cm外側の位置",
+  "id": 124
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "オピオイド副作用で耐性を生じにくいものは？",
+  "back": "便秘：耐性が生じにくく、開始時から緩下剤などで予防的に対応する",
+  "id": 125
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "脳卒中後中枢性疼痛（CPSP）で最も多い責任病変は？",
+  "back": "視床（視床痛、Dejerine-Roussy症候群）。延髄外側などでも生じる",
+  "id": 126
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "オピオイド選択とローテーション",
+  "front": "オピオイド変更時に等鎮痛換算量をそのまま使わず減量する理由",
+  "back": "交差耐性が不完全で個人差があり、換算表は目安にすぎず過量投与の危険があるため。",
+  "id": 127
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "放射線防護の三原則は",
+  "back": "時間・距離・遮蔽。透視時間を短くし、線源から離れ、防護具を使う。",
+  "id": 128
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "脊髄刺激療法",
+  "front": "SCSの試験刺激が有効と判断される目安の鎮痛効果は？",
+  "back": "一般に疼痛の50%以上の軽減が目安で、有効なら恒久植込みへ進む",
+  "id": 129
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "馬尾症候群の典型症状と対応",
+  "back": "膀胱直腸障害とサドル型感覚障害が特徴で、緊急の画像検査と外科的減圧が必要。",
+  "id": 130
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛の診断",
+  "front": "ICHD-3 前兆のない片頭痛の発作持続時間",
+  "back": "未治療または治療無効で4〜72時間。小児では2〜72時間とされる",
+  "id": 131
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "リドカインの血中濃度が上昇しやすい病態は？",
+  "back": "肝血流低下（心不全、β遮断薬併用）や肝機能障害：肝で代謝されるため",
+  "id": 132
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "フェンタニル・ブプレノルフィン",
+  "front": "フェンタニル貼付剤の初回貼付時に注意すべき点は？",
+  "back": "効果発現まで半日〜1日かかるため、初回は速放性製剤などを併用して疼痛を補う",
+  "id": 133
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "下行性疼痛抑制系",
+  "front": "ノルアドレナリンが後角で鎮痛に働く受容体は？",
+  "back": "α2アドレナリン受容体で、一次求心性線維や後角ニューロンを抑制する。",
+  "id": 134
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "腰部脊柱管狭窄症に特徴的な症状は？",
+  "back": "間欠跛行。歩行で下肢痛やしびれが増し、前屈や休息で軽減する",
+  "id": 135
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "アスピリン喘息（NSAIDs過敏喘息）で避けるべき薬は？",
+  "back": "酸性NSAIDsの全般：アセトアミノフェンは高用量を避ければ使用可能なことが多い",
+  "id": 136
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "三叉神経・自律神経性頭痛",
+  "front": "発作性片側頭痛に特徴的な治療反応",
+  "back": "インドメタシンが絶対的に有効。持続性片側頭痛も同様の反応を示す",
+  "id": 137
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "プレガバリンの代表的副作用は？",
+  "back": "眠気・めまい・浮腫・体重増加：高齢者では転倒にも注意",
+  "id": 138
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "感染対策と消毒レベル",
+  "front": "アルコール手指消毒が効きにくい病原体は？",
+  "back": "クロストリジオイデス・ディフィシルなどの芽胞形成菌。流水と石けんで手洗いする",
+  "id": 139
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "フェンタニル・ブプレノルフィン",
+  "front": "ブプレノルフィンの呼吸抑制へのナロキソンの効き方は？",
+  "back": "受容体からの解離が遅く、拮抗されにくい：大量投与が必要となることがある",
+  "id": 140
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "髄腔内ポンプ",
+  "front": "ITBの急な中断で起こる重篤な病態は？",
+  "back": "バクロフェン離脱症候群。高熱、筋強直、意識障害、痙縮の急増を呈する",
+  "id": 141
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "内側枝ブロックが神経根ブロックと異なる点は",
+  "back": "脊髄神経後枝を標的とし、下肢痛ではなく椎間関節由来の腰痛に用いる。",
+  "id": 142
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "骨転移痛と放射線治療",
+  "front": "骨転移による神経症状が急に出現した時に最も警戒すべき病態は何か",
+  "back": "脊髄圧迫(転移性脊椎腫瘍による)で、緊急の評価と治療が必要となる。",
+  "id": 143
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドンの処方に必要な条件は？",
+  "back": "適正流通管理の登録：e-learning受講などを済ませた医師・医療機関に限られる",
+  "id": 144
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "オキシコドン徐放錠を服用する際の注意は",
+  "back": "噛み砕いたり割ったりしない：徐放性が失われ急速に吸収され過量となる危険",
+  "id": 145
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "末梢神経刺激・TENS",
+  "front": "TENSの鎮痛機序として説明されるものは？",
+  "back": "ゲートコントロール理論。太い有髄線維の刺激で痛覚伝達を抑える",
+  "id": 146
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "傍脊椎ブロックで起こりうる特徴的な合併症",
+  "back": "気胸と硬膜外・くも膜下腔への広がり。ESPより胸膜に近いため気胸のリスクが高い",
+  "id": 147
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "緊張型頭痛",
+  "front": "緊張型頭痛の頻度による分類",
+  "back": "稀発反復性は月1日未満、頻発反復性は月1〜14日、慢性は月15日以上",
+  "id": 148
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "糖尿病性神経障害の発症進展抑制の基本",
+  "back": "良好な血糖コントロールが基本であり、血圧や脂質の管理も合わせて行う。",
+  "id": 149
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "有害事象の分類",
+  "front": "有害事象共通用語規準CTCAEのGrade 5は？",
+  "back": "有害事象による死亡。Grade 1が軽症、Grade 3が高度、Grade 4が生命を脅かす",
+  "id": 150
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "透視下の硬膜外造影で硬膜外腔に特徴的な造影像",
+  "back": "辺縁が不規則な陰影の広がり。血管内なら速やかに流出し、くも膜下腔なら髄液様に拡散する",
+  "id": 151
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "三叉神経痛でガッセル神経節に対して行う代表的ブロックは？",
+  "back": "高周波熱凝固法やグリセロール注入、神経ブロック。卵円孔経由で穿刺する",
+  "id": 152
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "神経ブロック・神経破壊",
+  "front": "内臓痛が強い上腹部がんで行われる神経破壊術は何か",
+  "back": "腹腔神経叢ブロック(神経叢破壊)で、膵がんなどの上腹部内臓痛に有効とされる。",
+  "id": 153
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "ガッセル神経節が存在する場所は",
+  "back": "側頭骨錐体尖端のメッケル腔。硬膜に包まれた腔内にある。",
+  "id": 154
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "麻薬法規と保管",
+  "front": "麻薬施用者免許を受ける単位は？",
+  "back": "都道府県知事の免許で、診療に従事する医師が個人として受ける。免許は都道府県ごとである",
+  "id": 155
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "突出痛",
+  "front": "持続痛が強い時にレスキューを繰り返す場合はどうするか",
+  "back": "定時オピオイドの増量を検討する。レスキュー使用が多い時は基礎投与量の不足を疑う。",
+  "id": 156
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "侵害受容性疼痛",
+  "front": "侵害受容性疼痛の定義は？",
+  "back": "組織損傷またはそのおそれによる侵害受容器の活性化で生じる痛み。神経の病変は必須でない",
+  "id": 157
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドンの血中濃度が上昇する併用薬は？",
+  "back": "CYP3A4などの阻害薬：代謝が阻害され効果・副作用が増強する",
+  "id": 158
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "腰部脊柱管狭窄症の典型的な症状",
+  "back": "間欠跛行で、歩行や腰椎伸展で下肢痛が増悪し、前屈や座位で軽快する。",
+  "id": 159
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "骨盤痛・仙腸関節・梨状筋",
+  "front": "梨状筋症候群の診断に用いる誘発手技は？",
+  "back": "Freibergテスト（股関節の他動内旋）、Paceテスト（抵抗下の外転外旋）、FAIRテスト",
+  "id": 160
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "経皮的椎間板治療・コンドリアーゼ",
+  "front": "コンドリアーゼ投与で最も警戒する重篤な副作用は？",
+  "back": "アナフィラキシーショック。投与後は十分な観察が必要",
+  "id": 161
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "トラマドールで注意すべき重篤な副作用は",
+  "back": "けいれん・セロトニン症候群：SSRIなどの併用やてんかん既往に注意",
+  "id": 162
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "後頭神経ブロック",
+  "front": "大後頭神経ブロックが有効な頭痛",
+  "back": "後頭神経痛と頸原性頭痛。群発頭痛などの緊急的な治療に用いられることもある",
+  "id": 163
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "術後慢性疼痛",
+  "front": "鼠径ヘルニア術後の慢性疼痛で障害されやすい神経は？",
+  "back": "腸骨鼠径神経、腸骨下腹神経、陰部大腿神経の陰部枝。神経損傷や絞扼による",
+  "id": 164
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "帯状疱疹で抗ウイルス薬を早期に始める狙い",
+  "back": "皮疹の治癒促進と急性痛の軽減が目的で、帯状疱疹後神経痛への移行抑制も期待される。",
+  "id": 165
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "ICOPと口腔顔面痛",
+  "front": "三叉神経痛の痛みの性状と第一選択薬",
+  "back": "電撃様の短時間の痛みが触刺激で誘発される。第一選択はカルバマゼピン",
+  "id": 166
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "せん妄・副作用管理",
+  "front": "オピオイドによる悪心・嘔吐への対応で初期に行うことは何か",
+  "back": "制吐薬の予防的併用を考慮し、耐性が生じやすいため多くは数日から1週間で軽減する。",
+  "id": 167
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "肋間神経ブロックの注意すべき合併症",
+  "back": "気胸と血管内注入。肋骨下縁で血管神経束を目標に穿刺する",
+  "id": 168
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "ガバペンチンの日本での保険適応は？",
+  "back": "併用療法における部分発作てんかん：神経障害性疼痛は適応外",
+  "id": 169
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "アセトアミノフェン",
+  "front": "アセトアミノフェンの成人の1日最大量は",
+  "back": "4000mg/日：肝障害の危険があり総量に注意する",
+  "id": 170
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "糖尿病性神経障害で最も多い病型",
+  "back": "遠位対称性多発神経障害で、足先から靴下型に感覚障害が上行する。",
+  "id": 171
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "ヒドロモルフォンの活性代謝物の特徴は",
+  "back": "H3Gは鎮痛活性が乏しいが神経興奮性を示しうる：腎機能低下時は蓄積に注意",
+  "id": 172
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "三叉神経痛の主な原因は",
+  "back": "三叉神経根入口部での血管による圧迫。微小血管減圧術の根拠となる。",
+  "id": 173
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "せん妄・副作用管理",
+  "front": "オピオイドによる眠気が強い時の対応は何か",
+  "back": "過量や他の中枢抑制薬の併用、腎機能低下などを確認し、減量や変更を検討する。",
+  "id": 174
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "変形性関節症・骨粗鬆症性椎体骨折",
+  "front": "新鮮な椎体骨折を示すMRI所見",
+  "back": "T1強調像で低信号、STIR像で高信号となり、陳旧例との鑑別に有用である。",
+  "id": 175
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "変形性関節症・骨粗鬆症性椎体骨折",
+  "front": "変形性関節症の典型的なX線所見",
+  "back": "関節裂隙の狭小化、骨棘形成、軟骨下骨の硬化と嚢胞形成がみられる。",
+  "id": 176
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "腰部交感神経節ブロックの合併症のうち男性で注意するもの",
+  "back": "射精障害。両側のL1からL2高位の交感神経遮断で生じうる",
+  "id": 177
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "腰部交感神経節ブロックで生じうる神経障害",
+  "back": "陰部大腿神経痛。針が大腰筋内を通過する際に損傷することで生じる",
+  "id": 178
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "後頭神経痛・頸原性頭痛",
+  "front": "大後頭神経の由来",
+  "back": "第2頸神経（C2）後枝の内側枝。後頭部から頭頂部に分布する",
+  "id": 179
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "脳卒中後中枢性疼痛の症状の特徴は？",
+  "back": "病変と反対側の自発痛や冷刺激・接触によるアロディニア。発症は脳卒中後数週から数か月が多い",
+  "id": 180
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "オピオイド選択とローテーション",
+  "front": "フェンタニル貼付剤の貼付部位が高熱になると何が起こるか",
+  "back": "皮膚からの吸収が増え血中濃度が上昇し、過量投与の危険がある。発熱や電気毛布に注意。",
+  "id": 181
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "椎間関節性腰痛で増悪しやすい動作は",
+  "back": "後屈や回旋。椎間関節に荷重がかかる動作で痛みが誘発される。",
+  "id": 182
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "骨転移痛と放射線治療",
+  "front": "骨転移痛に対する放射線治療の位置づけはどうか",
+  "back": "有効な鎮痛手段で、局所の疼痛緩和に推奨され、鎮痛薬と併用して行う。",
+  "id": 183
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "髄腔内ポンプ",
+  "front": "髄腔内バクロフェン療法（ITB）の主な適応は？",
+  "back": "薬物治療で効果不十分な重度の痙縮（脳性・脊髄性）",
+  "id": 184
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "感染対策と消毒レベル",
+  "front": "スポルディングの分類で粘膜に接触する器具は？",
+  "back": "セミクリティカル器具。高水準消毒または滅菌が望ましい",
+  "id": 185
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "サドルブロックで遮断される髄節は",
+  "back": "主に仙髄(S1からS5)。会陰部や肛門周囲の疼痛や処置に用いる。",
+  "id": 186
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脳神経V・VII・IX",
+  "front": "舌咽神経痛で痛みが誘発される部位は？",
+  "back": "咽頭・舌根部・扁桃部で、嚥下や会話が誘因となる。",
+  "id": 187
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "ICOPと口腔顔面痛",
+  "front": "国際口腔顔面痛分類（ICOP）第1版の発表年",
+  "back": "2020年。ICHD-3と整合する形で口腔顔面痛を体系化した",
+  "id": 188
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "仙骨硬膜外ブロックの穿刺部位は",
+  "back": "仙骨裂孔。左右の仙骨角を触れて目印にし、仙尾靱帯を貫く。",
+  "id": 189
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "デルマトームと皮枝",
+  "front": "剣状突起の高さの皮膚分節は？",
+  "back": "T6。胸骨角はT2、鎖骨上部はC4が目安",
+  "id": 190
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "三環系抗うつ薬の抗コリン性副作用は",
+  "back": "口渇、便秘、尿閉、緑内障悪化：緑内障や前立腺肥大では慎重投与",
+  "id": 191
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "L5神経根障害で障害されやすい筋力は？",
+  "back": "母趾背屈（長母趾伸筋）と足関節背屈。下腿外側から足背の感覚も低下する",
+  "id": 192
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "腹腔神経叢が位置する場所は",
+  "back": "腹腔動脈起始部周囲、腹大動脈前面でT12からL1椎体高位。",
+  "id": 193
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "術後慢性疼痛",
+  "front": "術後慢性疼痛の発症リスク因子として代表的なものは？",
+  "back": "術前の疼痛、術後急性期の強い疼痛、神経損傷、若年、心理的因子（破局化）など",
+  "id": 194
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "血管性疼痛(Fontaine・狭心症)",
+  "front": "狭心症でみられる関連痛の部位",
+  "back": "左肩、左上肢の尺側、下顎、背部などに放散する。",
+  "id": 195
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "脊柱管狭窄症と閉塞性動脈硬化症の間欠跛行の鑑別点",
+  "back": "狭窄症は立ち止まるだけでは軽快せず前屈で軽快、ASOは立ち止まると軽快し足背動脈が減弱する。",
+  "id": 196
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "硬膜穿刺後頭痛の特徴的な症状は",
+  "back": "体位性頭痛。座位や立位で増悪し、臥位で軽減する。髄液漏出が原因。",
+  "id": 197
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "医療放射線",
+  "front": "妊娠可能な女性へのX線透視下ブロックで確認する点は？",
+  "back": "妊娠の有無を確認し、妊娠中は原則として避けるか代替手段を検討する",
+  "id": 198
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "腎機能低下患者でモルヒネの代わりに選びやすい薬は？",
+  "back": "フェンタニルなど：活性代謝物が蓄積しにくく、腎機能の影響を受けにくい",
+  "id": 199
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "ICD-11",
+  "front": "ICD-11で慢性疼痛が分類される位置は？",
+  "back": "慢性疼痛が独立した診断分類として新設され、慢性一次性疼痛と慢性二次性疼痛に大別される",
+  "id": 200
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "大腿神経ブロックの穿刺位置の目印は",
+  "back": "鼠径靱帯下で大腿動脈の外側。大腿動脈・静脈より外側にある。",
+  "id": 201
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "超音波画像で神経が示す所見の例",
+  "back": "末梢では蜂の巣状の高エコー像。神経周膜を反映する",
+  "id": 202
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPSの臨床診断基準として国際的に用いられる基準は？",
+  "back": "ブダペスト基準。感覚・血管運動・浮腫/発汗・運動/栄養の4カテゴリーの症状と徴候で判定する",
+  "id": 203
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "ヒドロモルフォンの主な代謝経路は",
+  "back": "グルクロン酸抱合で、CYP代謝をほとんど受けず相互作用が少ない",
+  "id": 204
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛の診断",
+  "front": "前兆のない片頭痛の頭痛の特徴4項目のうち必要な数",
+  "back": "片側性・拍動性・中等度以上・日常動作で増悪の4項目中2項目を満たす",
+  "id": 205
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "中枢性感作",
+  "front": "中枢性感作で鍵となる受容体は？",
+  "back": "NMDA受容体。Mg2+のブロック解除で細胞内Ca2+が流入し感作が成立する",
+  "id": 206
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "アセトアミノフェン",
+  "front": "アセトアミノフェン中毒の肝障害の原因代謝物は",
+  "back": "N-アセチル-p-ベンゾキノンイミン（NAPQI）：グルタチオン枯渇で肝毒性",
+  "id": 207
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "メキシレチンの肝臓での代謝に関わる主な薬物動態上の注意点は？",
+  "back": "肝代謝を受けるため、肝機能障害では血中濃度が上昇しやすく減量を考慮する",
+  "id": 208
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "グリア細胞",
+  "front": "神経障害性疼痛に関与する脊髄のグリア細胞は？",
+  "back": "ミクログリアとアストロサイトで、末梢神経損傷後に活性化される。",
+  "id": 209
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "トラマドールの作用機序は",
+  "back": "μ受容体作動とセロトニン・ノルアドレナリン再取り込み阻害",
+  "id": 210
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロック後の上肢の変化",
+  "back": "皮膚温上昇と発汗低下。上肢の交感神経が遮断されるため",
+  "id": 211
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "脊柱起立筋面ブロック（ESP）の薬液注入部位",
+  "back": "脊柱起立筋と横突起の間の筋膜面。横突起先端の頭尾側へ広がる",
+  "id": 212
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "内側枝高周波熱凝固の前に行う検査は",
+  "back": "診断的内側枝ブロック。効果と疼痛再現性で椎間関節痛を確認する。",
+  "id": 213
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "中枢性疼痛に推奨される薬物療法の例は？",
+  "back": "プレガバリン、三環系抗うつ薬（アミトリプチリン）など。神経障害性疼痛薬物療法ガイドラインに基づく",
+  "id": 214
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脳神経V・VII・IX",
+  "front": "三叉神経第3枝の頭蓋底の出口は？",
+  "back": "卵円孔で、咀嚼筋への運動線維を含む混合神経である。",
+  "id": 215
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "ESPの主な鎮痛機序の想定",
+  "back": "薬液が傍脊椎腔と硬膜外腔へ広がり、脊髄神経の背枝と腹枝を遮断する",
+  "id": 216
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "帯状疱疹後神経痛(PHN)の一般的な定義",
+  "back": "皮疹治癒後も続く痛みで、皮疹出現から3ヶ月を超えて持続するものとされることが多い。",
+  "id": 217
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "腰痛のレッドフラッグが示唆する疾患",
+  "back": "重篤な脊椎疾患(腫瘍、感染、骨折、馬尾症候群など)を疑うサインである。",
+  "id": 218
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "薬剤の使用過多による頭痛",
+  "front": "薬剤の使用過多による頭痛の基本的治療",
+  "back": "原因薬の中止と患者教育、必要に応じて予防薬を開始する",
+  "id": 219
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "糖尿病性多発神経障害の簡易診断に用いる所見",
+  "back": "両側アキレス腱反射の低下または消失、振動覚低下、両足趾先の自覚症状から判断する。",
+  "id": 220
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄神経と神経叢",
+  "front": "大腿神経の起始となる腰神経根は？",
+  "back": "L2〜L4で、大腿四頭筋の運動と大腿前面・下腿内側（伏在神経）の感覚を支配する。",
+  "id": 221
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "フェンタニル・ブプレノルフィン",
+  "front": "フェンタニルの薬理学的特徴は？",
+  "back": "脂溶性が高く、血液脳関門を速やかに通過する：μ受容体作動薬",
+  "id": 222
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "モルヒネ経口から注射への換算比の目安は",
+  "back": "経口：静注・皮下注は約2：1（注射のほうが力価が高い）",
+  "id": 223
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "モルヒネ投与でみられるヒスタミン遊離関連の症状は？",
+  "back": "掻痒や血圧低下：モルヒネはヒスタミン遊離作用を持つ",
+  "id": 224
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰椎術後疼痛症候群",
+  "front": "硬膜外腔癒着剥離術の目的",
+  "back": "カテーテルで硬膜外腔の癒着を剥離し、薬液を病変部へ届けて痛みを軽減する。",
+  "id": 225
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "後頭神経ブロック",
+  "front": "大後頭神経の起始",
+  "back": "第2頸神経後枝の内側枝。後頭部から頭頂部の知覚を支配する",
+  "id": 226
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛予防とCGRP関連薬",
+  "front": "CGRP関連片頭痛予防薬のうち受容体を標的とする抗体薬",
+  "back": "エレヌマブ。ガルカネズマブとフレマネズマブはCGRPリガンドに対する抗体",
+  "id": 227
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "PHNへ移行しやすい危険因子",
+  "back": "高齢、急性期の強い痛み、重症の皮疹、前駆痛の存在などが挙げられる。",
+  "id": 228
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "超音波ガイド下ブロックに用いるコンベックスプローブの用途",
+  "back": "深部のブロック。低周波で広い視野が得られるが分解能は低い",
+  "id": 229
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "局所麻酔薬中毒に対する特異的治療は？",
+  "back": "脂肪乳剤（20%）の静注：気道確保・痙攣対策と並行して行う",
+  "id": 230
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "仙腸関節ブロック",
+  "front": "仙腸関節ブロックの透視下穿刺の注意点",
+  "back": "関節の下部1/3の関節裂隙に進める。関節内を造影で確認する",
+  "id": 231
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "痛覚変調性疼痛",
+  "front": "痛覚変調性疼痛でよく併存する症状は？",
+  "back": "睡眠障害、疲労、認知の問題（いわゆる中枢性過敏症候群の特徴）",
+  "id": 232
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄神経と神経叢",
+  "front": "腕神経叢を構成する脊髄神経は？",
+  "back": "C5〜T1の前枝で、上肢の運動と感覚を支配する。",
+  "id": 233
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "神経根ブロックで造影剤を用いる主目的",
+  "back": "血管内注入やくも膜下腔注入の否定と、神経根への薬液広がりの確認",
+  "id": 234
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "腎機能低下時の薬剤",
+  "front": "腎機能低下時に減量が必要な鎮痛補助薬を挙げよ",
+  "back": "プレガバリンやミロガバリンは腎排泄のため、腎機能に応じた減量が必要である。",
+  "id": 235
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPS typeⅠとtypeⅡの違いは？",
+  "back": "typeⅡは明らかな末梢神経損傷を伴い、typeⅠは伴わない（旧カウザルギーがtypeⅡに相当）",
+  "id": 236
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "タペンタドールが適する痛みの種類は",
+  "back": "侵害受容性疼痛に加え神経障害性疼痛の要素を含む慢性疼痛・がん疼痛",
+  "id": 237
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ケタミン",
+  "front": "ケタミンの主な作用機序は",
+  "back": "NMDA受容体拮抗（チャネル遮断）：AMPA受容体ではない",
+  "id": 238
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "硬膜外ブロックで誤って硬膜を穿破し大量注入した時の合併症は",
+  "back": "全脊髄くも膜下麻酔。急速な血圧低下、呼吸停止、意識消失をきたす。",
+  "id": 239
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "超音波ガイド下ブロックでリニアプローブが適する深さ",
+  "back": "浅い部位（約6cmまで）。解像度は高いが深部の描出は劣る",
+  "id": 240
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "術後慢性疼痛",
+  "front": "術後慢性疼痛の一般的な定義（持続期間）は？",
+  "back": "手術後3か月以上持続する疼痛で、他の原因が除外されたもの",
+  "id": 241
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "侵害受容性疼痛",
+  "front": "Aδ線維が伝える痛みの特徴は？",
+  "back": "有髄で速く伝導し、局在の明確な一次痛（鋭い痛み）を担う",
+  "id": 242
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "グリア細胞",
+  "front": "ミクログリアの活性化に関わるATP受容体は？",
+  "back": "P2X4受容体。ミクログリアでのBDNF放出を介して後角ニューロンの興奮性を高める。",
+  "id": 243
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛の診断",
+  "front": "慢性片頭痛の診断基準（頭痛日数）",
+  "back": "3か月を超え月15日以上の頭痛があり、うち月8日以上が片頭痛の特徴を満たす",
+  "id": 244
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "メキシレチンの日本での疼痛関連の適応は？",
+  "back": "糖尿病性神経障害に伴う自覚症状（自発痛、しびれ感）",
+  "id": 245
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "インシデント・アクシデント",
+  "front": "患者誤認を防ぐ基本的な確認方法は？",
+  "back": "患者に名乗ってもらうフルネームの確認とリストバンド照合を併用し、部位や側も確認する",
+  "id": 246
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "痛覚変調性疼痛",
+  "front": "痛覚変調性疼痛を示唆する身体所見は？",
+  "back": "広範囲の痛覚過敏やアロディニア（刺激に比べ不釣り合いな痛み）",
+  "id": 247
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "メキシレチンの抗不整脈薬としての分類は？",
+  "back": "Ib群：Na+チャネル遮断薬でリドカインと類似した作用を持つ",
+  "id": 248
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "ICOPと口腔顔面痛",
+  "front": "灼熱口症候群の特徴",
+  "back": "口腔粘膜に灼熱感があるが粘膜に器質的異常がなく、検査でも原因を認めない",
+  "id": 249
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "メキシレチンで頻度の高い副作用は？",
+  "back": "悪心・食欲不振などの消化器症状：食後投与が望ましい",
+  "id": 250
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "モルヒネによる呼吸抑制に用いる拮抗薬は？",
+  "back": "ナロキソン：オピオイド受容体拮抗薬、作用時間が短く再投与が必要なことがある",
+  "id": 251
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "メキシレチン投与前に確認すべき心疾患は？",
+  "back": "II度以上の房室ブロックなどの刺激伝導障害：禁忌となる",
+  "id": 252
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ケタミン",
+  "front": "ケタミンの麻薬指定について",
+  "back": "日本では麻薬に指定されており、麻薬管理の規則に従う",
+  "id": 253
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "フェンタニル・ブプレノルフィン",
+  "front": "ブプレノルフィンの受容体への作用は？",
+  "back": "μ受容体の部分作動薬でκ受容体には拮抗：天井効果がある",
+  "id": 254
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "鎮痛補助薬",
+  "front": "鎮痛補助薬のガバペンチノイドの作用機序は何か",
+  "back": "電位依存性Caチャネルのα2δサブユニットに結合し、興奮性神経伝達物質の放出を抑える。",
+  "id": 255
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "個人線量計の装着部位(男性・妊娠不能女性)は",
+  "back": "胸部。妊娠可能な女性は腹部に装着する(電離放射線障害防止規則の規定)。",
+  "id": 256
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "心理社会的因子・CBT・集学的治療",
+  "front": "恐怖回避思考モデルの悪循環",
+  "back": "破局的思考から痛みへの恐怖が生じ、回避行動と不活動、機能低下を経て痛みが遷延する。",
+  "id": 257
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "髄腔内投与",
+  "front": "がん疼痛で髄腔内投与が検討される状況はどのような時か",
+  "back": "全身投与で副作用により十分な鎮痛が得られない難治性の痛みの時に検討される。",
+  "id": 258
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "研究倫理",
+  "front": "人を対象とする生命科学・医学系研究の審査機関は？",
+  "back": "倫理審査委員会。研究実施前に計画の科学的妥当性と倫理的妥当性を審査する",
+  "id": 259
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "硬膜穿刺後頭痛",
+  "front": "硬膜穿刺後頭痛の姿勢との関係",
+  "back": "座位・立位で15分以内に増悪し、臥位で軽快する。髄液漏出による低髄液圧が原因",
+  "id": 260
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "末梢性感作",
+  "front": "サイレント侵害受容器が活性化されやすい組織は？",
+  "back": "炎症下の関節や内臓などで、通常は無反応だが炎症で反応性を獲得する。",
+  "id": 261
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロックの血管内誤注入で生じる重篤な合併症",
+  "back": "椎骨動脈内注入による痙攣・意識消失。局所麻酔薬が脳へ直接流入する",
+  "id": 262
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "突出痛",
+  "front": "突出痛に対するレスキュー薬の1回量の基本的な決め方は何か",
+  "back": "1日の定時オピオイド量の約1/6を目安にする(経口モルヒネ換算)。",
+  "id": 263
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "NSAIDsが腎障害を起こす機序は？",
+  "back": "腎プロスタグランジン低下による腎血流減少：脱水や高齢者で顕著",
+  "id": 264
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "帯状疱疹の予防手段として国内で用いられるもの",
+  "back": "水痘ワクチン(生ワクチン)と乾燥組換えワクチンがあり、50歳以上などで接種される。",
+  "id": 265
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "ガバペンチノイドの作用機序は？",
+  "back": "電位依存性Ca2+チャネルのα2δサブユニットに結合し、興奮性伝達物質の放出を抑制",
+  "id": 266
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "イオンチャネルと受容体",
+  "front": "カプサイシンが活性化する受容体は？",
+  "back": "TRPV1。熱（約43℃以上）やプロトンでも活性化される",
+  "id": 267
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脳神経V・VII・IX",
+  "front": "三叉神経第2枝の頭蓋底の出口は？",
+  "back": "正円孔で、翼口蓋窩を経て眼窩下孔から眼窩下神経として顔面に出る。",
+  "id": 268
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "局所麻酔薬中毒の症状の出方は？",
+  "back": "中枢神経症状（興奮・痙攣）が先行し、その後に循環抑制が現れるのが典型",
+  "id": 269
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "トータルペイン",
+  "front": "トータルペインを構成する4つの要素は何か",
+  "back": "身体的苦痛、精神的苦痛、社会的苦痛、スピリチュアルペインである。",
+  "id": 270
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "C2/3椎間関節を支配する神経は",
+  "back": "第3後頭神経(C3後枝の浅内側枝)。頸原性頭痛の原因となりうる。",
+  "id": 271
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "がんサバイバーの痛み",
+  "front": "がん治療後に生じる代表的な慢性疼痛の例を挙げよ",
+  "back": "術後疼痛症候群(乳房切除後など)、化学療法誘発末梢神経障害、放射線による神経障害など。",
+  "id": 272
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "鎮痛補助薬",
+  "front": "がんによる神経障害性疼痛で併用されるステロイドの作用は何か",
+  "back": "腫瘍周囲浮腫の軽減により神経圧迫を緩め、また抗炎症作用で痛みを軽減する。",
+  "id": 273
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "末梢性感作",
+  "front": "末梢性感作の主な原因物質を3つ挙げよ",
+  "back": "ブラジキニン、プロスタグランジンE2、神経成長因子（NGF）などの炎症性メディエーター。",
+  "id": 274
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "フェンタニル・ブプレノルフィン",
+  "front": "フェンタニルがモルヒネより少ない傾向にある副作用は？",
+  "back": "便秘や悪心嘔吐：ヒスタミン遊離も少なく、腎機能低下時にも使いやすい",
+  "id": 275
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "胸部硬膜外で傍正中法が選ばれる理由は",
+  "back": "棘突起が長く下方へ斜走し、正中では針が通りにくいため。",
+  "id": 276
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "ブピバカインと比べたロピバカインの利点は？",
+  "back": "心毒性が低い：S体のみの単一異性体製剤で、運動神経遮断も比較的軽い",
+  "id": 277
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "群発頭痛",
+  "front": "群発頭痛の予防で用いられる代表薬",
+  "back": "ベラパミル。房室ブロックなど心電図変化を確認しながら増量する",
+  "id": 278
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ケタミン",
+  "front": "ケタミンが気道に及ぼす特徴は",
+  "back": "気道反射が比較的保たれ、気管支拡張作用がある",
+  "id": 279
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰椎術後疼痛症候群",
+  "front": "硬膜外瘢痕と再発ヘルニアの鑑別に有用な検査",
+  "back": "造影MRIで、瘢痕は造影されて均一に増強し、ヘルニア塊は通常造影されない。",
+  "id": 280
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "せん妄・副作用管理",
+  "front": "オピオイド誘発性便秘症の治療薬でμ受容体拮抗作用を持つ薬は何か",
+  "back": "ナルデメジンで、末梢性μオピオイド受容体拮抗薬として中枢の鎮痛作用に影響しにくい。",
+  "id": 281
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "硬膜外腔を満たしている組織は",
+  "back": "脂肪組織、静脈叢、リンパ管、結合組織。空気ではなく脂肪が主体。",
+  "id": 282
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "アセトアミノフェンの特徴は？",
+  "back": "中枢性に作用し抗炎症作用はほぼない：過量では肝障害に注意",
+  "id": 283
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "オピオイド選択とローテーション",
+  "front": "オピオイドスイッチングの主な目的は何か",
+  "back": "副作用で増量困難、または鎮痛不十分な時に、別のオピオイドへ変更して効果と忍容性を改善する。",
+  "id": 284
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "オキシコドンの腎機能低下時の特徴は",
+  "back": "活性代謝物の蓄積はモルヒネより少ないが、腎機能低下では血中濃度が上昇しうるため慎重投与",
+  "id": 285
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "高周波熱凝固",
+  "front": "高周波熱凝固法（RF）の通電温度の目安は？",
+  "back": "70〜90℃程度で神経を熱凝固させ、伝導を遮断する",
+  "id": 286
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "エステル型局所麻酔薬でアレルギーが多い理由は？",
+  "back": "代謝産物のパラアミノ安息香酸（PABA）が抗原となるため",
+  "id": 287
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "斜角筋間アプローチで遮断されにくい神経は",
+  "back": "尺骨神経領域(C8・T1)。腕神経叢の下神経幹が遮断されにくい。",
+  "id": 288
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛急性期治療",
+  "front": "トリプタンの服用時期の原則",
+  "back": "頭痛が軽いうちに早期に服用すると有効性が高い。前兆期ではなく頭痛期に用いる",
+  "id": 289
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "硬膜外腔・くも膜下腔と椎骨レベル",
+  "front": "硬膜嚢の終わりは成人で通常どの椎体レベルか？",
+  "back": "S2レベルで、くも膜下腔はここまで続く。",
+  "id": 290
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "中枢性感作",
+  "front": "二次性痛覚過敏とは？",
+  "back": "損傷部位の周囲の正常組織にも生じる痛覚過敏。中枢性感作が主因",
+  "id": 291
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "WHO方式と除痛ラダー",
+  "front": "WHO方式がん疼痛治療の基本原則で投与経路は何が望ましいか",
+  "back": "可能な限り経口投与を基本とする。簡便で患者の自立性を保てるため。",
+  "id": 292
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "変形性関節症・骨粗鬆症性椎体骨折",
+  "front": "骨粗鬆症性椎体骨折の好発部位",
+  "back": "胸腰椎移行部(Th11からL2付近)に多い。",
+  "id": 293
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "デュロキセチンの主な副作用は",
+  "back": "嘔気、傾眠、口渇、便秘：開始時は少量から漸増する",
+  "id": 294
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "オピオイド誘発性便秘の特徴は",
+  "back": "耐性が生じにくく継続的に出現：緩下薬の予防投与が基本",
+  "id": 295
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰椎術後疼痛症候群",
+  "front": "FBSSで脊髄刺激療法(SCS)を検討する場面",
+  "back": "保存的治療に抵抗する難治性の神経障害性疼痛で、試験刺激で有効性を確認して適応を判断する。",
+  "id": 296
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "鎮痛補助薬",
+  "front": "神経障害性がん疼痛に用いられる鎮痛補助薬の例を挙げよ",
+  "back": "ガバペンチノイド(プレガバリン、ミロガバリン)、デュロキセチン、三環系抗うつ薬などがある。",
+  "id": 297
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "妊娠後期のNSAIDs投与で問題となる胎児への影響は？",
+  "back": "動脈管の早期閉鎖：妊娠後期では原則避ける",
+  "id": 298
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "仙腸関節ブロック",
+  "front": "仙腸関節障害を疑う誘発テスト",
+  "back": "Patrick（FABER）テストやGaenslenテスト。複数の陽性所見の組合せで評価する",
+  "id": 299
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "NSAIDs",
+  "front": "NSAIDsの鎮痛・抗炎症作用の機序は？",
+  "back": "COX阻害によるプロスタグランジン産生の抑制",
+  "id": 300
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ケタミン",
+  "front": "ケタミンの鎮痛での位置づけは",
+  "back": "NMDA受容体拮抗による難治性神経障害性疼痛などに少量で用いられることがある",
+  "id": 301
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "デュロキセチンが日本で適応を持つ疼痛疾患は",
+  "back": "糖尿病性神経障害、線維筋痛症、慢性腰痛症、変形性関節症に伴う疼痛",
+  "id": 302
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "椎間関節・内側枝ブロック",
+  "front": "頸椎椎間関節痛が多くみられる外傷歴は",
+  "back": "むち打ち損傷。外傷後の頸部痛の原因として頸椎椎間関節が重要。",
+  "id": 303
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "タペンタドールがセロトニン症候群を起こしにくい理由は",
+  "back": "セロトニン再取り込み阻害作用が弱く、ノルアドレナリン系が主体であるため",
+  "id": 304
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "研究倫理",
+  "front": "ヘルシンキ宣言が定める内容は？",
+  "back": "人を対象とする医学研究の倫理原則。被験者の福利を優先し、インフォームドコンセントを求める",
+  "id": 305
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "髄腔内投与",
+  "front": "髄腔内投与で必ず確認すべき感染と出血の観点は何か",
+  "back": "髄膜炎と硬膜外・髄腔内血腫の危険があり、感染徴候と凝固能の評価が必要。",
+  "id": 306
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "交感神経系の解剖",
+  "front": "交感神経節前線維の起始部位は？",
+  "back": "脊髄T1〜L2の側角（中間外側核）。胸腰系と呼ばれる",
+  "id": 307
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰椎術後疼痛症候群",
+  "front": "FBSSの主な原因",
+  "back": "硬膜外線維化、再発ヘルニア、隣接椎間障害、不十分な除圧、心理社会的要因などがある。",
+  "id": 308
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "中枢性感作",
+  "front": "ワインドアップ現象とは？",
+  "back": "C線維の反復刺激で後角ニューロンの応答が累積的に増大する現象。NMDA受容体が関与",
+  "id": 309
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "肋間神経が走行する位置は",
+  "back": "肋骨下縁の肋間溝。上から静脈・動脈・神経の順に並ぶ。",
+  "id": 310
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "パルス高周波",
+  "front": "パルス高周波法（PRF）の標準的な設定温度の上限は？",
+  "back": "電極先端温度は42℃以下に保ち、組織破壊を伴わず神経を調節する",
+  "id": 311
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "心理社会的因子・CBT・集学的治療",
+  "front": "慢性疼痛の理解に用いる生物心理社会モデル",
+  "back": "痛みを身体因子だけでなく、心理・社会的因子の相互作用として捉える枠組みである。",
+  "id": 312
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "第5腰椎神経根の障害でみられる知覚障害部位",
+  "back": "下腿外側から足背。L5障害では母趾背屈の筋力低下を伴う",
+  "id": 313
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "三叉神経の第2枝と第3枝が通る頭蓋底の孔は",
+  "back": "V2は正円孔、V3は卵円孔。第1枝は上眼窩裂を通る。",
+  "id": 314
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロックの穿刺高位の目安は",
+  "back": "第6頸椎横突起（Chassaignac結節）前方。椎骨動脈の損傷を避ける位置",
+  "id": 315
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "交感神経系の解剖",
+  "front": "星状神経節の構成は？",
+  "back": "下頸神経節と第1胸神経節の癒合。C7横突起の高さに位置する",
+  "id": 316
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "せん妄・副作用管理",
+  "front": "終末期のせん妄に対する原因検索で確認する項目を挙げよ",
+  "back": "薬剤(オピオイド、ベンゾジアゼピン)、感染、脱水、電解質異常、高Ca血症などを評価する。",
+  "id": 317
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "筋筋膜性疼痛・線維筋痛症",
+  "front": "線維筋痛症の疼痛病態として考えられている機序は？",
+  "back": "中枢性感作。中枢神経系での疼痛処理の異常（痛覚過敏・アロディニア）が関与する",
+  "id": 318
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "帯状疱疹の原因ウイルスと潜伏部位は",
+  "back": "水痘・帯状疱疹ウイルス(VZV)が脊髄後根神経節などに潜伏し、再活性化して発症する。",
+  "id": 319
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "変形性関節症・骨粗鬆症性椎体骨折",
+  "front": "変形性関節症で第一に検討する外用薬",
+  "back": "外用NSAIDsは全身性の副作用が少なく、局所の痛みに用いやすい。",
+  "id": 320
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "三叉神経・自律神経性頭痛",
+  "front": "三叉神経・自律神経性頭痛に含まれる頭痛",
+  "back": "群発頭痛、発作性片側頭痛、短時間持続性片側神経痛様頭痛発作、持続性片側頭痛",
+  "id": 321
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ケタミン",
+  "front": "ケタミンの循環器系への作用は",
+  "back": "交感神経刺激で血圧上昇・頻脈：虚血性心疾患や高血圧では注意",
+  "id": 322
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "筋筋膜性疼痛・線維筋痛症",
+  "front": "筋筋膜性疼痛症候群に特徴的な所見は？",
+  "back": "圧痛点（トリガーポイント）と、圧迫で生じる関連痛や筋の索状硬結（taut band）",
+  "id": 323
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "椎体形成術",
+  "front": "バルーン椎体形成術（BKP）がセメント漏出を減らす理由は？",
+  "back": "バルーンで空洞を作り、セメントを低圧で注入できるため",
+  "id": 324
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "痛覚変調性疼痛",
+  "front": "痛覚変調性疼痛の定義は？",
+  "back": "侵害受容の明らかな証拠も神経障害の証拠もないが、侵害受容の変化により生じる痛み",
+  "id": 325
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "血管性疼痛(Fontaine・狭心症)",
+  "front": "Fontaine分類のIV度の症状",
+  "back": "皮膚潰瘍や壊死を伴う重症の虚血で、重症下肢虚血に相当する。",
+  "id": 326
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "三叉神経痛に対する根治的外科治療の代表は？",
+  "back": "微小血管減圧術（Jannetta手術）。血管圧迫例が適応である",
+  "id": 327
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "アミトリプチリンの鎮痛作用に関わる機序は",
+  "back": "セロトニン・ノルアドレナリン再取り込み阻害による下行性抑制系の賦活",
+  "id": 328
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "突出痛",
+  "front": "がん疼痛における突出痛の定義は何か",
+  "back": "持続痛が良好に管理されている状態で生じる、一過性の痛みの増強をいう。",
+  "id": 329
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "がんサバイバーの痛み",
+  "front": "がんサバイバーの慢性疼痛に対するオピオイドの考え方は何か",
+  "back": "痛みの原因によらず漫然と使わず、効果と害を評価し適応を慎重に判断する。",
+  "id": 330
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "トータルペイン",
+  "front": "トータルペインの概念を提唱した人物は誰か",
+  "back": "シシリー・ソンダース(Cicely Saunders)で、ホスピス運動の創始者として知られる。",
+  "id": 331
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "髄腔内投与",
+  "front": "髄腔内投与に用いられる主なオピオイドは何か",
+  "back": "モルヒネが標準的で、局所麻酔薬やジコノチドなどを併用することがある。",
+  "id": 332
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "患者コミュニケーション",
+  "front": "難治性の慢性疼痛患者との面接で重視する姿勢は？",
+  "back": "訴えを否定せず傾聴・共感し、痛みの消失ではなく機能改善を共有目標として設定する",
+  "id": 333
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "後頭神経痛・頸原性頭痛",
+  "front": "頸原性頭痛の診断のポイント",
+  "back": "頸部の運動や姿勢で誘発され、頸部の神経ブロックで頭痛が消失する",
+  "id": 334
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "頸部硬膜外ブロックでよく選ばれる穿刺高位は",
+  "back": "C7/T1またはT1/2。硬膜外腔が比較的広く、穿刺しやすいため。",
+  "id": 335
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "オピオイドの副作用で耐性が生じにくいものは",
+  "back": "便秘：嘔気や眠気と異なり長期間持続するため対策が要る",
+  "id": 336
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "神経ブロック・神経破壊",
+  "front": "神経破壊薬として用いる薬剤の例を挙げよ",
+  "back": "無水エタノールとフェノールグリセリンが代表的である。",
+  "id": 337
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "アシクロビル系抗ウイルス薬で腎機能低下時の注意",
+  "back": "腎排泄型のため腎機能低下時は減量が必要。過量では精神神経症状が出うる。",
+  "id": 338
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "グリア細胞",
+  "front": "ミクログリア由来BDNFが後角ニューロンに及ぼす作用は？",
+  "back": "TrkBを介してKCC2を低下させ、細胞内Cl濃度が上昇しGABAが興奮性に転じる。",
+  "id": 339
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "術後慢性疼痛",
+  "front": "開胸術後疼痛症候群で障害されやすい神経は？",
+  "back": "肋間神経。術中の牽引や損傷で神経障害性疼痛をきたす",
+  "id": 340
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "パルス高周波",
+  "front": "PRFの鎮痛機序として考えられているものは？",
+  "back": "電場による神経活動の調節。熱凝固による神経破壊ではない",
+  "id": 341
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "腰痛診療で非特異的腰痛が占める割合",
+  "back": "腰痛の約85%は画像や所見で原因を特定できない非特異的腰痛とされる。",
+  "id": 342
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "高周波熱凝固",
+  "front": "腰椎椎間関節痛に対するRFの標的神経は？",
+  "back": "内側枝（後枝内側枝）。椎間関節を支配する知覚枝を凝固する",
+  "id": 343
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "透視下手技で術者の被ばくが少ないX線管球の配置は",
+  "back": "アンダーチューブ(管球が患者の下)。散乱線が術者の上半身に少ない。",
+  "id": 344
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "眼窩上孔から出る神経は",
+  "back": "眼神経(V1)の枝である眼窩上神経。前額部の知覚を支配する。",
+  "id": 345
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "後頭神経ブロック",
+  "front": "大後頭神経ブロックの穿刺部位の目安",
+  "back": "外後頭隆起と乳様突起を結ぶ線の内側1/3付近。後頭動脈の拍動の内側",
+  "id": 346
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "群発頭痛",
+  "front": "群発頭痛の発作時の行動の特徴",
+  "back": "落ち着きがなく動き回る。片頭痛では安静を好む点と対照的",
+  "id": 347
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "モルヒネ",
+  "front": "モルヒネの活性代謝物で腎機能低下時に蓄積するものは？",
+  "back": "M6G（モルヒネ6グルクロニド）：腎排泄のため蓄積し、眠気やせん妄の原因となる",
+  "id": 348
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "硬膜外ステロイド注入の穿刺で懸念される硬膜外血腫の危険因子",
+  "back": "抗血栓薬の内服。JSPCのガイドラインに沿って休薬期間を確認する",
+  "id": 349
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ケタミン",
+  "front": "ケタミンの特徴的な精神症状は",
+  "back": "解離性症状、幻覚、悪夢：覚醒時に出現しやすい",
+  "id": 350
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロックの絶対的に避けるべき両側施行の理由",
+  "back": "両側の反回神経麻痺や横隔神経麻痺による気道・呼吸障害の危険がある",
+  "id": 351
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "エピドラスコピー",
+  "front": "エピドラスコピーの主な目的は？",
+  "back": "硬膜外腔を直視し、癒着の剥離や薬液の局所投与を行う",
+  "id": 352
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドンの適応は？",
+  "back": "他の強オピオイドで治療困難ながん疼痛：第一選択ではなく切り替え時に使用する",
+  "id": 353
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "トラマドールが麻薬指定でない点の意味は",
+  "back": "日本では麻薬及び向精神薬取締法の麻薬に該当せず、処方日数の制限が通常ない",
+  "id": 354
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "骨盤痛・仙腸関節・梨状筋",
+  "front": "梨状筋症候群で圧迫されやすい神経は？",
+  "back": "坐骨神経。梨状筋の肥厚や緊張による絞扼で臀部から下肢の痛みをきたす",
+  "id": 355
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "アセトアミノフェン",
+  "front": "アセトアミノフェンがNSAIDsに比べ有利な点は",
+  "back": "胃腸障害や腎障害、血小板機能への影響が少ない",
+  "id": 356
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "骨転移痛と放射線治療",
+  "front": "骨転移の痛みの緩和に使われる骨修飾薬を挙げよ",
+  "back": "ビスホスホネート製剤とデノスマブで、骨関連事象を減らし疼痛に寄与する。",
+  "id": 357
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "ミロガバリンの特徴は？",
+  "back": "α2δ-1サブユニットへの選択性が高い：適応は神経障害性疼痛（2022年に末梢性から拡大）",
+  "id": 358
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "イオンチャネルと受容体",
+  "front": "局所麻酔薬の作用部位は？",
+  "back": "電位依存性Na+チャネルの細孔内部。活動電位の発生・伝導を遮断する",
+  "id": 359
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPSの薬物療法で推奨される経口薬の例は？",
+  "back": "ステロイド（急性期）、ビスホスホネート、神経障害性疼痛治療薬など。エビデンスは限定的である",
+  "id": 360
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "脊髄損傷後疼痛で損傷レベルの分節周辺に出現しやすい痛みは？",
+  "back": "損傷レベル痛（at-level pain）。帯状の灼熱痛・アロディニアを呈する",
+  "id": 361
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄神経と神経叢",
+  "front": "頸神経叢を構成する脊髄神経は？",
+  "back": "C1〜C4の前枝で、頸部の皮膚や筋、横隔神経（C3〜C5）などを支配する。",
+  "id": 362
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "神経障害性疼痛",
+  "front": "神経障害性疼痛で脊髄後角に生じる中枢性感作の機序は？",
+  "back": "NMDA受容体の活性化により後角ニューロンの興奮性が持続的に高まる。",
+  "id": 363
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "侵害受容性疼痛",
+  "front": "ポリモーダル受容器とは？",
+  "back": "機械・熱・化学刺激のいずれにも反応するC線維の侵害受容器",
+  "id": 364
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "神経障害性疼痛ガイドラインの第一選択薬に含まれる抗うつ薬は",
+  "back": "三環系抗うつ薬（アミトリプチリン等）とデュロキセチン",
+  "id": 365
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "せん妄・副作用管理",
+  "front": "オピオイドによる便秘が持続する理由は何か",
+  "back": "耐性が生じにくく、消化管のμ受容体作用により蠕動が抑制されるため、下剤を継続併用する。",
+  "id": 366
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "オキシコドンの主な代謝酵素は",
+  "back": "CYP3A4（一部CYP2D6）：CYP3A4阻害薬（クラリスロマイシン等）併用で血中濃度が上昇する",
+  "id": 367
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "鎖骨上アプローチ腕神経叢ブロックで特に注意する合併症は",
+  "back": "気胸。第1肋骨と胸膜の近傍を穿刺するため。",
+  "id": 368
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "オピオイド不完全交差耐性を踏まえた換算後の対応は",
+  "back": "換算量より減量して開始し、効果と副作用を見ながら調整する",
+  "id": 369
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "無菌操作",
+  "front": "皮膚消毒薬が乾く前に穿刺してはならない理由は？",
+  "back": "十分な殺菌効果が得られず、消毒薬が硬膜外腔へ入ると神経毒性のおそれがあるため",
+  "id": 370
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ステロイドと抗凝固薬管理",
+  "front": "ステロイド長期投与後に注意すべき全身性の問題は",
+  "back": "副腎機能抑制：周術期のステロイドカバーや急な中止を避ける配慮が必要",
+  "id": 371
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "筋筋膜性疼痛・線維筋痛症",
+  "front": "線維筋痛症に対する非薬物療法で推奨されるものは？",
+  "back": "有酸素運動を中心とした運動療法と認知行動療法。患者教育も重要である",
+  "id": 372
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "感染対策と消毒レベル",
+  "front": "硬膜外腔や脊柱管内に挿入する器具の区分は？",
+  "back": "クリティカル器具。滅菌が必要で、消毒では不十分である",
+  "id": 373
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "後頭神経ブロック",
+  "front": "小後頭神経の起始",
+  "back": "頸神経叢（C2、C3）の枝。耳介後方から側頭部の知覚を支配する",
+  "id": 374
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄後角と上行路",
+  "front": "広作動域（WDR）ニューロンが集まる層は？",
+  "back": "主に第Ⅴ層。触刺激から侵害刺激まで応答し、感作で重要となる",
+  "id": 375
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "骨盤痛・仙腸関節・梨状筋",
+  "front": "慢性骨盤痛に対し上下腹神経叢ブロックが適応となる痛みは？",
+  "back": "骨盤内臓器由来の内臓痛（がん性骨盤痛など）。交感神経経路を遮断する",
+  "id": 376
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "麻薬法規と保管",
+  "front": "麻薬の廃棄で必要な手続きは？",
+  "back": "都道府県知事への届出を行い、麻薬取締員等の立会いの下で廃棄する。残液の廃棄は例外あり",
+  "id": 377
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄後角と上行路",
+  "front": "脊髄視床路の交叉部位は？",
+  "back": "入力した髄節で前白交連を通り、すぐ対側へ交叉する",
+  "id": 378
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脳神経V・VII・IX",
+  "front": "三叉神経の3つの枝とその出口の孔は？",
+  "back": "眼神経V1は上眼窩裂、上顎神経V2は正円孔、下顎神経V3は卵円孔から出る。",
+  "id": 379
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "局所麻酔薬中毒の初期症状",
+  "back": "口周囲のしびれ、耳鳴り、金属味。進行すると痙攣や心停止となる",
+  "id": 380
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "脊髄刺激療法",
+  "front": "SCS植込み前に確認すべき代表的な禁忌・注意事項は？",
+  "back": "抗凝固薬の管理、局所や全身の感染、心理的評価。感染は禁忌となる",
+  "id": 381
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "アセトアミノフェン",
+  "front": "アセトアミノフェンの術後鎮痛での位置づけは",
+  "back": "多角的鎮痛の基本薬：静注と経口で有効性に差はみられない",
+  "id": 382
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "中枢性感作",
+  "front": "中枢性感作とは？",
+  "back": "脊髄後角などの侵害情報処理ニューロンの応答性が高まり、痛覚過敏を生じる現象",
+  "id": 383
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "ボツリヌス毒素療法",
+  "front": "ボツリヌス毒素の作用機序は？",
+  "back": "神経筋接合部で神経終末からのアセチルコリン放出を阻害し筋弛緩をきたす",
+  "id": 384
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "腹横筋膜面ブロック（TAPブロック）の注入部位",
+  "back": "内腹斜筋と腹横筋の間の筋膜面。下腹部の体壁痛に用いる",
+  "id": 385
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "交感神経系の解剖",
+  "front": "上頸神経節が支配する主な領域は？",
+  "back": "頭部・顔面の血管、涙腺・唾液腺、瞳孔散大筋。遮断でホルネル症候群を生じる",
+  "id": 386
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節の位置する部位",
+  "back": "頸胸移行部。下頸神経節と第1胸神経節が癒合した頸胸神経節であることが多い",
+  "id": 387
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "下行性疼痛抑制系",
+  "front": "下行性疼痛抑制系の中継核となる中脳の部位は？",
+  "back": "中脳水道周囲灰白質（PAG）から延髄吻側腹内側部（RVM）を経て後角を抑制する。",
+  "id": 388
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "上下腹神経叢ブロックの適応は",
+  "back": "骨盤内臓器のがん性疼痛。L5/S1椎間前面付近で行う。",
+  "id": 389
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "インフォームドコンセント",
+  "front": "神経破壊薬を用いるブロックの同意で特に伝える点は？",
+  "back": "効果が不可逆で、運動障害や知覚障害などの合併症が永続しうること",
+  "id": 390
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "腹腔神経叢の神経破壊薬ブロックの重篤な合併症は",
+  "back": "対麻痺。Adamkiewicz動脈などの損傷による脊髄虚血が原因とされる。",
+  "id": 391
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "経皮的椎間板治療・コンドリアーゼ",
+  "front": "コンドリアーゼ椎間板内注入の適応は？",
+  "back": "保存療法に抵抗する後縦靱帯下脱出型（subligamentous）の腰椎椎間板ヘルニア",
+  "id": 392
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脳神経V・VII・IX",
+  "front": "顔面神経が頭蓋外に出る孔は？",
+  "back": "茎乳突孔で、出口付近で耳下腺内を走り表情筋を支配する。",
+  "id": 393
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "アセトアミノフェン",
+  "front": "アセトアミノフェンの主な鎮痛機序は",
+  "back": "中枢でのCOX阻害や下行性抑制系の関与が考えられ、抗炎症作用は弱い",
+  "id": 394
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "ナルデメジンの作用機序は",
+  "back": "末梢性μオピオイド受容体拮抗薬：中枢の鎮痛作用に影響せず便秘を改善",
+  "id": 395
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "神経ブロック・神経破壊",
+  "front": "腹腔神経叢ブロックで注意すべき代表的な副作用は何か",
+  "back": "起立性低血圧と下痢で、交感神経遮断により腹部内臓の副交感神経優位となるため。",
+  "id": 396
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "有痛性糖尿病性神経障害に適応のあるSNRI",
+  "back": "デュロキセチンは糖尿病性神経障害に伴う疼痛に適応を持ち、第一選択薬の一つである。",
+  "id": 397
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メキシレチン・リドカイン静注",
+  "front": "リドカイン静注で出る中毒の初期症状は？",
+  "back": "口周囲のしびれ、耳鳴り、金属様の味覚、ふらつき",
+  "id": 398
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "腰痛とレッドフラッグ",
+  "front": "腰痛の慢性化に関わるイエローフラッグ",
+  "back": "不安や抑うつ、破局的思考、仕事への不満など心理社会的な危険因子を指す。",
+  "id": 399
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "末梢神経刺激・TENS",
+  "front": "末梢神経刺激（PNS）の基本的な方法は？",
+  "back": "目的の末梢神経近傍に電極リードを留置し、電気刺激で神経障害性疼痛を抑える",
+  "id": 400
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "グリア細胞",
+  "front": "後角でのGABAやグリシンの抑制低下を何と呼ぶか？",
+  "back": "脱抑制（disinhibition）で、アロディニアの発現機序の一つである。",
+  "id": 401
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "S1神経根障害でみられる反射異常は？",
+  "back": "アキレス腱反射の低下または消失。足底・足外側の感覚低下を伴う",
+  "id": 402
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "L4神経根障害で低下する深部腱反射は？",
+  "back": "膝蓋腱反射。大腿四頭筋の筋力低下と下腿内側の感覚障害を伴う",
+  "id": 403
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "典型的三叉神経痛の第一選択薬は？",
+  "back": "カルバマゼピン。ナトリウムチャネルを遮断し、多くの症例で有効である",
+  "id": 404
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ステロイドと抗凝固薬管理",
+  "front": "抗血小板薬の休薬を学会指針で確認する理由は",
+  "back": "薬剤ごとに休薬期間が異なり、血腫リスクと血栓リスクを比較する必要がある",
+  "id": 405
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "心理社会的因子・CBT・集学的治療",
+  "front": "慢性疼痛に対する認知行動療法の目的",
+  "back": "痛みに対する認知と行動を修正し、セルフマネジメント能力と活動性を高める。",
+  "id": 406
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドン投与中に併用を避けたい薬剤群は？",
+  "back": "QT延長を起こす薬剤：抗不整脈薬や一部の向精神薬など、QT延長が相加的に増える",
+  "id": 407
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "心理社会的因子・CBT・集学的治療",
+  "front": "破局的思考を評価する尺度",
+  "back": "疼痛破局化尺度(PCS)で、反芻・拡大視・無力感を評価する。",
+  "id": 408
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "椎体形成術",
+  "front": "経皮的椎体形成術の主な適応は？",
+  "back": "疼痛を伴う骨粗鬆症性椎体圧迫骨折や有痛性転移性椎体腫瘍",
+  "id": 409
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "局所麻酔薬中毒",
+  "front": "局所麻酔薬中毒の特異的治療薬は？",
+  "back": "20%脂肪乳剤の静脈内投与。初回ボーラス後に持続投与し、気道確保と循環管理を併用する",
+  "id": 410
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "モルヒネの腎機能低下時の問題点は",
+  "back": "活性代謝物M6Gが蓄積し、過鎮静や呼吸抑制を起こしやすい",
+  "id": 411
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "中枢性感作",
+  "front": "ミクログリアが神経障害性疼痛に果たす役割は？",
+  "back": "活性化して炎症性サイトカインやBDNFを放出し、後角の興奮性を高める",
+  "id": 412
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "血管性疼痛(Fontaine・狭心症)",
+  "front": "Fontaine分類のIII度の症状",
+  "back": "安静時疼痛で、夜間に増悪し、足を下げると軽くなることがある。",
+  "id": 413
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "星状神経節ブロック",
+  "front": "星状神経節ブロックで起こりうる反回神経麻痺の症状",
+  "back": "嗄声と嚥下違和感。同側の反回神経が薬液で遮断されるため",
+  "id": 414
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "ボツリヌス毒素療法",
+  "front": "ボツリヌス毒素の効果が現れる時期と持続の目安は？",
+  "back": "効果発現まで数日から2週間、持続は通常3〜4か月程度で反復投与を要する",
+  "id": 415
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "骨転移痛と放射線治療",
+  "front": "骨修飾薬投与時に注意が必要な顎の合併症は何か",
+  "back": "顎骨壊死で、投与前の歯科受診と口腔衛生管理、侵襲的歯科処置の回避が必要。",
+  "id": 416
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "ESPと体幹ブロック",
+  "front": "ESPが適応となる痛み",
+  "back": "肋骨骨折や術後の体幹部痛。帯状疱疹関連痛などにも用いられる",
+  "id": 417
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "筋筋膜性疼痛・線維筋痛症",
+  "front": "線維筋痛症で保険適用のある薬剤は？",
+  "back": "プレガバリンとデュロキセチン。ミルナシプランは日本では適応外",
+  "id": 418
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPSの急性期に行う基本的な理学療法の考え方は？",
+  "back": "疼痛の範囲内での積極的な運動と機能回復を促す。固定や安静の長期化は拘縮と悪化を招く",
+  "id": 419
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "神経根ブロック",
+  "front": "神経根ブロックの診断的意義",
+  "back": "責任神経根の同定。ブロックで疼痛が消失すれば障害根と判断できる",
+  "id": 420
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "下肢伸展挙上テスト（SLR）が陽性となる主な神経根は？",
+  "back": "L5とS1。L4以上の高位ヘルニアでは大腿神経伸展テスト（FNST）を用いる",
+  "id": 421
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "腰部交感神経節ブロックの針先の位置",
+  "back": "L2またはL3椎体の前外側縁。大腰筋の内側で椎体前面の交感神経幹付近",
+  "id": 422
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "上肢・下肢神経ブロック",
+  "front": "腋窩アプローチで遮断されにくい神経は",
+  "back": "筋皮神経。筋鞘の外側で烏口腕筋内を走行するため。",
+  "id": 423
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "超音波ガイド下の平行法の利点",
+  "back": "針全体を描出して針先を確認しやすい。交差法より針の視認性が高い",
+  "id": 424
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "髄腔内ポンプ",
+  "front": "髄腔内ポンプ療法で用いるモルヒネ投与量の特徴は？",
+  "back": "経口量より著しく少量で足りる。髄腔内投与は全身投与より強い鎮痛が得られる",
+  "id": 425
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "アナフィラキシー",
+  "front": "アナフィラキシー時の患者の体位は？",
+  "back": "仰臥位で下肢を挙上する。呼吸困難や嘔吐がある場合は楽な体位とし、急に立たせない",
+  "id": 426
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "硬膜穿刺後頭痛",
+  "front": "硬膜穿刺後頭痛の発症時期（ICHD-3）",
+  "back": "硬膜穿刺後5日以内に発症する。髄液漏出が原因",
+  "id": 427
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "抵抗消失法で抵抗が消える部位は",
+  "back": "黄色靱帯を貫いて硬膜外腔に入った瞬間。針先が腔内に入った目安。",
+  "id": 428
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "変形性関節症・骨粗鬆症性椎体骨折",
+  "front": "膝関節内ヒアルロン酸注射の作用",
+  "back": "関節液の粘弾性を補い、潤滑作用と疼痛の緩和を期待する。",
+  "id": 429
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "医療放射線",
+  "front": "放射線防護の三原則は？",
+  "back": "時間を短く、距離を取り、遮蔽する。被曝は合理的に達成可能な限り低くする",
+  "id": 430
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "pKaの低い局所麻酔薬の作用発現の特徴は？",
+  "back": "非イオン型の割合が多く膜を通過しやすいため、作用発現が速い",
+  "id": 431
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "サドル・肋間・傍脊椎ブロック",
+  "front": "傍脊椎ブロックで局所麻酔薬が広がる範囲は",
+  "back": "隣接する肋間や硬膜外腔にも及びうる。想定外の広がりに注意が必要である。",
+  "id": 432
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "硬膜外腔・くも膜下腔と椎骨レベル",
+  "front": "黄色靱帯が最も厚い脊椎部位は？",
+  "back": "腰部で、硬膜外穿刺の抵抗消失法で抵抗を感じる主な層である。",
+  "id": 433
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "イオンチャネルと受容体",
+  "front": "メントールが作用するTRPチャネルは？",
+  "back": "TRPM8。冷刺激で活性化され、冷感を生じる",
+  "id": 434
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "下行性疼痛抑制系",
+  "front": "条件付け疼痛調節（CPM）とは？",
+  "back": "ある部位の強い痛み刺激が別部位の痛みを抑える現象で、下行性抑制の指標となる。",
+  "id": 435
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "仙腸関節ブロック",
+  "front": "仙腸関節ブロックの診断的基準とされる除痛割合",
+  "back": "除痛が75%以上なら陽性、50〜75%なら寄与大とされる（統一基準はない）。診断的ブロックとして用いる",
+  "id": 436
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "硬膜外腔・くも膜下腔と椎骨レベル",
+  "front": "硬膜外腔に存在する主な組織は？",
+  "back": "脂肪組織、静脈叢（Batson静脈叢）、リンパ管、神経根の硬膜鞘などである。",
+  "id": 437
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "硬膜外ブロック(頸・胸・腰・仙骨)",
+  "front": "難治性の硬膜穿刺後頭痛に行う根治的治療は",
+  "back": "硬膜外自家血注入(ブラッドパッチ)。穿刺孔を血液で塞ぎ髄液漏出を止める。",
+  "id": 438
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "椎間板ヘルニア・脊柱管狭窄症",
+  "front": "馬尾症候群で緊急手術を検討すべき症状は？",
+  "back": "膀胱直腸障害、肛門周囲・会陰部のサドル型感覚障害、両下肢の進行性筋力低下",
+  "id": 439
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "突出痛",
+  "front": "予測できる体動時痛に対するレスキュー薬の使い方は何か",
+  "back": "痛みが出る前、体動の30分から1時間前を目安に予防的にレスキューを使用する。",
+  "id": 440
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "群発頭痛",
+  "front": "群発頭痛の発作の持続時間と頻度",
+  "back": "未治療で15〜180分、隔日から1日8回の発作。群発期に集中して起こる",
+  "id": 441
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "上下腹神経叢ブロックの適応",
+  "back": "骨盤内悪性腫瘍による内臓痛。会陰部痛と並んで難治性の骨盤痛に用いる",
+  "id": 442
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "超音波・透視ガイド",
+  "front": "透視下ブロックで造影剤を用いる前に確認すること",
+  "back": "ヨード造影剤アレルギーの既往。腎機能や妊娠の有無も確認する",
+  "id": 443
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "オピオイド選択とローテーション",
+  "front": "がん疼痛の強オピオイドで第一選択として用いられる代表薬は何か",
+  "back": "モルヒネ、オキシコドン、フェンタニルなどが標準的で、病態と患者背景で使い分ける。",
+  "id": 444
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛急性期治療",
+  "front": "トリプタンが禁忌となる代表的病態",
+  "back": "虚血性心疾患、脳血管障害、コントロール不良の高血圧、片麻痺性・脳底型片頭痛。血管収縮作用のため",
+  "id": 445
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "腰部交感神経節ブロックの適応",
+  "back": "下肢の閉塞性動脈硬化症、Buerger病、レイノー現象、CRPS下肢",
+  "id": 446
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛予防とCGRP関連薬",
+  "front": "片頭痛予防薬で日本の指針が推奨する代表薬",
+  "back": "ロメリジン、バルプロ酸、プロプラノロール、アミトリプチリンなどが使われる",
+  "id": 447
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "幻肢痛に対する非薬物療法としてよく知られるものは？",
+  "back": "ミラーセラピー。健側肢の鏡像を見ることで幻肢の疼痛を軽減する",
+  "id": 448
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "麻薬法規と保管",
+  "front": "麻薬の保管方法の基本は？",
+  "back": "麻薬以外と区別し、堅固な設備に鍵をかけて施錠保管する",
+  "id": 449
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オピオイド副作用と換算",
+  "front": "オピオイドによる嘔気に対する耐性は",
+  "back": "数日から1週間程度で耐性が生じやすく、制吐薬は開始時に併用する",
+  "id": 450
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "後根神経節刺激",
+  "front": "後根神経節刺激（DRGS）が特に有用とされる疼痛は？",
+  "back": "CRPSなど限局した下肢や鼠径部の神経障害性疼痛。従来SCSで届きにくい領域",
+  "id": 451
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "神経ブロック・神経破壊",
+  "front": "会陰部痛や直腸がん術後の肛門部痛に対する神経破壊術は何か",
+  "back": "上下腹神経叢ブロックや不対神経節ブロックが適応となる。",
+  "id": 452
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "イオンチャネルと受容体",
+  "front": "プレガバリンの作用部位は？",
+  "back": "電位依存性Ca2+チャネルのα2δサブユニット。興奮性伝達物質の遊離を抑える",
+  "id": 453
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "ICHD-3の構成",
+  "front": "ICHD-3で三叉神経痛が分類される部",
+  "back": "第3部の有痛性脳神経ニューロパチー。二次性頭痛とは別の位置づけ",
+  "id": 454
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "デュロキセチン・三環系",
+  "front": "デュロキセチンの相互作用で注意する薬剤群は",
+  "back": "MAO阻害薬（禁忌）：セロトニン症候群の危険。CYP1A2阻害薬も血中濃度を上昇",
+  "id": 455
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "脊髄後角と上行路",
+  "front": "外側脊髄視床路が伝える感覚は？",
+  "back": "痛覚と温度覚。対側の前外側索を上行し視床へ向かう",
+  "id": 456
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "幻肢痛の発症に関与するとされる中枢の変化は？",
+  "back": "体性感覚野の再編成（可塑的変化）。切断部位の領域に隣接野が侵入する",
+  "id": 457
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "硬膜穿刺後頭痛",
+  "front": "硬膜穿刺後頭痛を減らす針の選択",
+  "back": "細径の非切断針（ペンシルポイント針）。髄液漏出を少なくする",
+  "id": 458
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドンで増量や過量に慎重を要する薬物動態上の理由は？",
+  "back": "半減期が長く定常状態まで時間を要するため、遅れて蓄積や呼吸抑制が出現する",
+  "id": 459
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "交感神経系の解剖",
+  "front": "白交通枝と灰白交通枝の違いは？",
+  "back": "白交通枝は有髄の節前線維、灰白交通枝は無髄の節後線維が通る",
+  "id": 460
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "後頭神経痛・頸原性頭痛",
+  "front": "頸原性頭痛の原因として頻度の高い関節",
+  "back": "上位頸椎椎間関節、とくにC2/3椎間関節。第3後頭神経が関与する",
+  "id": 461
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "変形性関節症・骨粗鬆症性椎体骨折",
+  "front": "変形性膝関節症の基本的な運動療法",
+  "back": "大腿四頭筋の筋力強化と有酸素運動が推奨され、体重管理も合わせて行う。",
+  "id": 462
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "痛覚変調性疼痛",
+  "front": "三つの痛みの機序分類を挙げよ",
+  "back": "侵害受容性疼痛、神経障害性疼痛、痛覚変調性疼痛（nociplastic pain）",
+  "id": 463
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "薬剤の使用過多による頭痛",
+  "front": "薬剤の使用過多による頭痛の診断期間",
+  "back": "頭痛が月15日以上あり、原因薬を3か月を超えて定期的に過剰使用している",
+  "id": 464
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "腰部交感神経節ブロックの有効性の評価に用いる所見",
+  "back": "下肢の皮膚温上昇。ブロック後の皮膚温の上昇で効果を判定する",
+  "id": 465
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "合併症と放射線防護",
+  "front": "星状神経節ブロック後の気道閉塞の原因は",
+  "back": "頸部の血腫。反回神経麻痺による嗄声と併せて注意が必要である。",
+  "id": 466
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "後根神経節刺激",
+  "front": "DRGSのリードを留置する部位は？",
+  "back": "椎間孔近傍の硬膜外腔（後根神経節の位置）に経硬膜外的に留置する",
+  "id": 467
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "インフォームドコンセント",
+  "front": "インフォームドコンセントで説明すべき基本項目は？",
+  "back": "病状、処置の目的と方法、利益と危険性、代替手段、行わない場合の予後を説明し、同意を得る",
+  "id": 468
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "急激な血糖改善後に生じる有痛性神経障害",
+  "back": "治療後神経障害(インスリン神経炎)で、HbA1cの急速な低下後に疼痛や自律神経症状が出る。",
+  "id": 469
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "局所麻酔薬にアドレナリンを添加する目的は？",
+  "back": "血管収縮で吸収を遅らせ、作用延長と血中濃度上昇の抑制を図る",
+  "id": 470
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "メサドン",
+  "front": "メサドンの作用機序の特徴は？",
+  "back": "μオピオイド受容体作動に加えNMDA受容体拮抗作用を併せ持つ",
+  "id": 471
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "脊髄刺激療法",
+  "front": "SCSの電極が留置される硬膜外腔の部位は？",
+  "back": "硬膜外腔の後方（背側）。脊髄後索を刺激して疼痛抑制を図る",
+  "id": 472
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "糖尿病性神経障害",
+  "front": "糖尿病性筋萎縮症の特徴",
+  "back": "大腿前面の強い痛みと近位筋の筋力低下・萎縮を、急性から亜急性に呈する。",
+  "id": 473
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腰部・上下腹神経叢ブロック",
+  "front": "上下腹神経叢の位置",
+  "back": "L5からS1椎体前面の腹膜後腔。左右の総腸骨動静脈の間",
+  "id": 474
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "腹腔神経叢ブロックの代表的な副作用は",
+  "back": "起立性低血圧と下痢。内臓の交感神経が遮断されて副交感神経優位になる。",
+  "id": 475
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "三叉神経第3枝（下顎神経）が頭蓋底から出る孔は？",
+  "back": "卵円孔。第2枝は正円孔、第1枝は上眼窩裂を通る",
+  "id": 476
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "医療放射線",
+  "front": "透視下ブロックで術者の水晶体被曝を減らす方法は？",
+  "back": "鉛ガラス眼鏡を着用し、X線管球を患者の下側に置いて散乱線を避ける",
+  "id": 477
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "CRPS",
+  "front": "CRPSの発症の引き金として多い出来事は？",
+  "back": "骨折や手術などの外傷。四肢外傷後に多く、軽微な外傷でも起こる",
+  "id": 478
+ },
+ {
+  "domain": "safety_ethics_and_systems",
+  "area": "医療放射線",
+  "front": "放射線被曝量を決める上で距離との関係は？",
+  "back": "線量は距離の2乗に反比例する。線源から離れるほど術者の被曝は減る",
+  "id": 479
+ },
+ {
+  "domain": "headache_and_facial_pain",
+  "area": "片頭痛急性期治療",
+  "front": "ラスミジタンの作用機序と特徴",
+  "back": "5-HT1F受容体作動薬。血管収縮作用がなく、心血管系リスクのある例にも検討される",
+  "id": 480
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "ガバペンチノイド",
+  "front": "ガバペンチノイドで減量が必要になる病態は？",
+  "back": "腎機能低下：主に未変化体で腎排泄されるため",
+  "id": 481
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "局所麻酔薬の薬理と中毒",
+  "front": "局所麻酔薬の蛋白結合率と作用持続の関係は？",
+  "back": "蛋白結合率が高いほど作用持続時間が長い：組織の受容体部位に長く留まるため",
+  "id": 482
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "カルバマゼピン使用前に注意すべき重篤な副作用は？",
+  "back": "Stevens-Johnson症候群などの重症薬疹、骨髄抑制、肝障害、低Na血症",
+  "id": 483
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "タペンタドール・トラマドール",
+  "front": "トラマドールの活性代謝物M1を作る酵素は",
+  "back": "CYP2D6：M1はμ受容体への親和性が親化合物より高い",
+  "id": 484
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "三叉神経ブロック",
+  "front": "三叉神経痛の薬物療法の第一選択薬は",
+  "back": "カルバマゼピン。Naチャネル遮断作用により発作痛を抑える。",
+  "id": 485
+ },
+ {
+  "domain": "cancer_pain_and_palliative",
+  "area": "トータルペイン",
+  "front": "スピリチュアルペインの例として適切なものは何か",
+  "back": "生きる意味の喪失、死への恐怖、自己の存在価値への問いなど、人生の根源にかかわる苦痛。",
+  "id": 486
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "末梢神経刺激・TENS",
+  "front": "TENSの禁忌・注意が必要な代表例は？",
+  "back": "体内植込み型ペースメーカ、頸動脈洞部位への刺激、妊娠中の腹部刺激など",
+  "id": 487
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "痛覚変調性疼痛",
+  "front": "痛覚変調性疼痛の代表的疾患は？",
+  "back": "線維筋痛症など。中枢での痛覚処理の変調が背景にある",
+  "id": 488
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "骨盤痛・仙腸関節・梨状筋",
+  "front": "仙腸関節痛の確定診断に用いる方法は？",
+  "back": "仙腸関節ブロックによる疼痛の軽減（診断的ブロック）。局所麻酔薬の関節内注入で評価する",
+  "id": 489
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "交感神経系の解剖",
+  "front": "腰部交感神経節が位置する部位は？",
+  "back": "腰椎椎体の前外側。L2〜L4レベルが腰部交感神経節ブロックの標的",
+  "id": 490
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "筋筋膜性疼痛・線維筋痛症",
+  "front": "トリガーポイント注射で用いる薬剤の例は？",
+  "back": "局所麻酔薬（リドカインなど）。生理食塩水や針のみのドライニードリングも行われる",
+  "id": 491
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "帯状疱疹と帯状疱疹後神経痛",
+  "front": "PHNに用いるCa2+チャネルα2δリガンド",
+  "back": "プレガバリンとミロガバリンで、神経障害性疼痛薬物療法ガイドラインの第一選択薬に含まれる。",
+  "id": 492
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "腹腔・内臓神経ブロック",
+  "front": "腹腔神経叢ブロックのよい適応は",
+  "back": "上腹部の内臓痛を伴うがん性疼痛。膵がんが代表的である。",
+  "id": 493
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "骨盤痛・仙腸関節・梨状筋",
+  "front": "仙腸関節痛の診断で用いる誘発テストの例は？",
+  "back": "distraction、thigh thrust、Gaenslen、compression、sacral thrustの5つ(Laslett)。3項目以上陽性で疑う。Patrick(FABER)は補助的に用いる",
+  "id": 494
+ },
+ {
+  "domain": "interventional_and_devices",
+  "area": "ボツリヌス毒素療法",
+  "front": "本邦でボツリヌス毒素が保険適用となる痛みに関連した疾患は？",
+  "back": "眼瞼痙攣、片側顔面痙攣、痙性斜頸、上下肢痙縮など。慢性片頭痛は海外では承認されているが、本邦では適応外",
+  "id": 495
+ },
+ {
+  "domain": "nerve_blocks_and_procedures",
+  "area": "仙腸関節ブロック",
+  "front": "仙腸関節枝ブロック後に行われる治療",
+  "back": "高周波熱凝固法やパルス高周波法。長期的な鎮痛を期待する",
+  "id": 496
+ },
+ {
+  "domain": "pain_mechanisms_anatomy_physiology",
+  "area": "硬膜外腔・くも膜下腔と椎骨レベル",
+  "front": "Tuffier線（ヤコビー線）が通る椎体は？",
+  "back": "左右の腸骨稜最高点を結ぶ線で、L4棘突起またはL4/5間を通る。",
+  "id": 497
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "三叉神経痛",
+  "front": "三叉神経痛の痛みの性状の特徴は？",
+  "back": "数秒から数分の電撃痛で、洗顔・咀嚼など軽微な刺激で誘発される",
+  "id": 498
+ },
+ {
+  "domain": "chronic_pain_and_disorders",
+  "area": "幻肢痛・脳卒中後・脊髄損傷後疼痛",
+  "front": "幻肢痛の予防に有効とされる周術期の対応は？",
+  "back": "切断前後の十分な鎮痛（硬膜外・神経周囲カテーテル）。確立した予防法は限定的である",
+  "id": 499
+ },
+ {
+  "domain": "pharmacotherapy",
+  "area": "オキシコドン・ヒドロモルフォン",
+  "front": "オキシコドンが作用するオピオイド受容体は",
+  "back": "主にμ受容体（κ受容体への作用も報告）：モルヒネと同様の強オピオイド",
+  "id": 500
+ }
+]
